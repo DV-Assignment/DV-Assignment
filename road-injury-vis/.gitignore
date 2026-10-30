@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Office lock files
+~$*
+
+# Node (if used later)
+node_modules/
+
+# Vercel
+.vercel
