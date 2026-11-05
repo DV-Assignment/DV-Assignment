@@ -8,45 +8,57 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <nav class="site-nav">
+    <a class="brand" href="index.html">Beyond the <span>Road Toll</span></a>
+    <div class="nav-links">
+      <a href="index.html" aria-current="page">Home</a>
+      <a href="pages/trend.html">Trend</a>
+      <a href="pages/road-users.html">Road users</a>
+      <a href="pages/age-sex.html">Age &amp; sex</a>
+      <a href="pages/states.html">States</a>
+      <a href="pages/first-nations.html">First Nations</a>
+    </div>
+  </nav>
+
   <header>
     <h1>Beyond the Road Toll</h1>
     <p class="subtitle">Who ends up in hospital after Australian road crashes, 2011–2021</p>
-    <nav>
-      <a href="#trend">Trend</a>
-      <a href="#road-users">Road users</a>
-      <a href="#age-sex">Age &amp; sex</a>
-      <a href="#states">States</a>
-      <a href="#first-nations">First Nations</a>
-    </nav>
   </header>
 
   <main>
     <section id="intro">
+      <h2>About this story</h2>
       <p>Road safety news usually counts deaths, but far more people are hospitalised after road crashes. This site explores who is hospitalised in Australia and how this changed from 2011 to 2021, with a focus on motorcyclists, pedal cyclists and pedestrians.</p>
+
+      <!-- DUMMY DATA: replace these figures with values from data/processed/ -->
+      <span class="placeholder-tag">Placeholder figures</span>
+      <div class="stats">
+        <div class="stat"><strong>39,000</strong><span>hospitalisations per year</span></div>
+        <div class="stat"><strong>1,150</strong><span>road deaths per year</span></div>
+        <div class="stat"><strong>34&times;</strong><span>more hospitalised than killed</span></div>
+        <div class="stat"><strong>+18%</strong><span>change, 2011 to 2021</span></div>
+      </div>
+
+      <div class="mix">
+        <div class="mix-row"><span>Car occupants</span><div class="mix-bar"><i style="--w: 45%"></i></div><b>45%</b></div>
+        <div class="mix-row"><span>Motorcyclists</span><div class="mix-bar"><i style="--w: 25%"></i></div><b>25%</b></div>
+        <div class="mix-row"><span>Pedal cyclists</span><div class="mix-bar"><i style="--w: 17%"></i></div><b>17%</b></div>
+        <div class="mix-row"><span>Pedestrians</span><div class="mix-bar"><i style="--w: 9%"></i></div><b>9%</b></div>
+        <div class="mix-row"><span>Other</span><div class="mix-bar"><i style="--w: 4%"></i></div><b>4%</b></div>
+      </div>
+
       <p class="note">Note: the data are counts of hospital admission cases after road crashes, not crashes or deaths. Raw counts are not adjusted for population size.</p>
-      <p><em>Site under construction. Interactive D3 charts will be added to each section.</em></p>
       <div id="d3-check"></div>
     </section>
-    <section id="trend">
-      <h2>Q1 National trend</h2>
-      <p>How did the number of hospitalisations after road crashes in Australia change from 2011 to 2021, and which changes reflect real trends rather than the breaks in the series caused by changes in Victoria (from 2012) and New South Wales (from June 2017)?</p>
-    </section>
-    <section id="road-users">
-      <h2>Q2 Road users</h2>
-      <p>Which road user groups are hospitalised most, and did the share of motorcyclists, pedal cyclists and pedestrians grow between 2011 and 2021?</p>
-    </section>
-    <section id="age-sex">
-      <h2>Q3 Age and sex</h2>
-      <p>Which age groups and sexes are hospitalised most, and does this differ by road user type?</p>
-    </section>
-    <section id="states">
-      <h2>Q4 States and territories</h2>
-      <p>How does the mix of hospitalised road users differ across states and territories once population size is taken into account?</p>
-    </section>
-    <section id="first-nations">
-      <h2>Q5 First Nations Peoples</h2>
-      <p>How does the profile of hospitalised First Nations Peoples compare with the national profile?</p>
-    </section>
+
+    <h2>Explore the questions</h2>
+    <div class="q-grid">
+      <a class="q-card" href="pages/trend.html"><small>Q1</small><h3>National trend</h3><p>How did hospitalisations change from 2011 to 2021?</p></a>
+      <a class="q-card" href="pages/road-users.html"><small>Q2</small><h3>Road users</h3><p>Which road user groups are hospitalised most?</p></a>
+      <a class="q-card" href="pages/age-sex.html"><small>Q3</small><h3>Age and sex</h3><p>Which age groups and sexes are hospitalised most?</p></a>
+      <a class="q-card" href="pages/states.html"><small>Q4</small><h3>States and territories</h3><p>How does the mix differ across states?</p></a>
+      <a class="q-card" href="pages/first-nations.html"><small>Q5</small><h3>First Nations Peoples</h3><p>How does their profile compare nationally?</p></a>
+    </div>
   </main>
 
   <footer>

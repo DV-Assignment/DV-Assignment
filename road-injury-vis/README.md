@@ -19,7 +19,8 @@ https://www.bitre.gov.au/publications/ongoing/hospitalised-injury
 
 | Folder | Contents |
 |---|---|
-| `index.html` | Main page |
+| `index.html` | Home page (intro and links to each question) |
+| `pages/` | One page per research question (`trend`, `road-users`, `age-sex`, `states`, `first-nations`) |
 | `css/` | Stylesheets |
 | `js/` | D3 chart code (one file per chart) |
 | `data/raw/` | Original BITRE workbooks and Data Dictionary (unchanged) |
