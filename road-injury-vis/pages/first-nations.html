@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Q5 First Nations Peoples | Beyond the Road Toll</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Barlow:wght@400;500;600;700&display=swap">
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -19,24 +22,93 @@
     </div>
   </nav>
 
-  <main>
-    <section id="first-nations">
-      <p class="q-label">Question 5 of 5</p>
-      <h2>First Nations Peoples</h2>
-      <p>How does the profile of hospitalised First Nations Peoples compare with the national profile?</p>
-      <div class="chart" id="chart-first-nations"><p>Chart coming soon</p></div>
-    </section>
-
-    <div class="pager">
-      <a class="prev" href="states.html">&larr; Q4 States and territories</a>
-      <a class="next" href="../index.html">Back to home &rarr;</a>
+  <header class="page-hero">
+    <div class="wrap page-hero-inner">
+      <span class="q-num" aria-hidden="true">05</span>
+      <p class="eyebrow">Question 5 of 5</p>
+      <h1>First Nations Peoples</h1>
+      <p class="lead">How does the profile of hospitalised First Nations Peoples compare with the national profile?</p>
+      <ol class="journey" aria-label="Story progress">
+        <li class="done"><a href="../index.html"><span class="stop-label"><small>Start</small>Home</span></a></li>
+        <li class="done"><a href="trend.html"><span class="stop-label"><small>Q1</small>Trend</span></a></li>
+        <li class="done"><a href="road-users.html"><span class="stop-label"><small>Q2</small>Road users</span></a></li>
+        <li class="done"><a href="age-sex.html"><span class="stop-label"><small>Q3</small>Age &amp; sex</span></a></li>
+        <li class="done"><a href="states.html"><span class="stop-label"><small>Q4</small>States</span></a></li>
+        <li><a href="first-nations.html" aria-current="page"><span class="stop-label"><small>Q5</small>First Nations</span></a></li>
+      </ol>
     </div>
+    <div class="road-strip" aria-hidden="true"></div>
+  </header>
+
+  <main class="wrap q-main" id="first-nations">
+    <div class="stat-row three">
+      <div class="stat"><span class="num">31% <span class="vs">vs 20%</span></span><span class="label">aged 17 to 25: First Nations compared with non-Indigenous people, 2021</span></div>
+      <div class="stat"><span class="num">10.6% <span class="vs">vs 5.7%</span></span><span class="label">were pedestrians, almost twice the share</span></div>
+      <div class="stat"><span class="num">9.3% <span class="vs">vs 21.6%</span></span><span class="label">were pedal cyclists, less than half the share</span></div>
+    </div>
+
+    <figure class="chart-card">
+      <figcaption>
+        <span class="chart-title" id="q5-title">Share of cases by road user: First Nations people compared with non-Indigenous people</span>
+        <span class="chart-sub">Each bar is the share (%) of that group's own cases, so the two groups can be compared fairly. Hover a bar for details, or click it to pin them. Click anywhere to close.</span>
+      </figcaption>
+      <div class="controls">
+        <div class="toggle" role="group" aria-label="Compare by">
+          <button type="button" data-dim="Road user" aria-pressed="true">Road user</button>
+          <button type="button" data-dim="Age group" aria-pressed="false">Age group</button>
+        </div>
+        <label>Year <select id="q5-year"></select></label>
+      </div>
+      <div id="legend-first-nations" class="legend" aria-hidden="true"></div>
+      <div class="chart" id="chart-first-nations" role="img" aria-label="Grouped bar chart comparing First Nations and non-Indigenous road crash injury cases. In 2021, 31% of First Nations cases were aged 17 to 25, compared with 20% of non-Indigenous cases."><p>Loading chart…</p></div>
+      <p class="source">Source: BITRE Hospitalised Injury, September 2023 release. n.p. = not published because the count is small. * = one part of the count is not published, so the share is a little low.</p>
+    </figure>
+
+    <div class="insight">
+      <div class="takeaway">
+        <h2>What the data says</h2>
+        <p>First Nations people injured on the road are <strong>younger</strong>: in 2021, 31% were aged 17 to 25, compared with 20% of non-Indigenous people. A larger share were <strong>pedestrians (10.6% compared with 5.7%)</strong>, and a smaller share were pedal cyclists (9.3% compared with 21.6%).</p>
+      </div>
+      <aside class="aside">
+        <h2>Keep in mind</h2>
+        <p>Each bar is a share of that group's own cases. The chart compares the profile of who is injured, not how many more people in one group are injured than in the other.</p>
+      </aside>
+    </div>
+
+    <nav class="pager" aria-label="Question navigation">
+      <a class="prev" href="states.html"><small>&larr; Previous stop</small><span>Q4 States and territories</span></a>
+      <a class="next" href="../index.html"><small>End of the road &rarr;</small><span>Back to home</span></a>
+    </nav>
   </main>
 
   <footer>
-    <p>Data: Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+    <div class="road-strip" aria-hidden="true"></div>
+    <div class="wrap footer-grid">
+      <div>
+        <a class="brand" href="../index.html">Beyond the <span>Road Toll</span></a>
+        <p>An interactive data story on hospitalised road crash injuries in Australia, 2011–2021.</p>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          <li><a href="trend.html">Trend</a></li>
+          <li><a href="road-users.html">Road users</a></li>
+          <li><a href="age-sex.html">Age &amp; sex</a></li>
+          <li><a href="states.html">States</a></li>
+          <li><a href="first-nations.html">First Nations</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Data</h3>
+        <p>Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+      </div>
+    </div>
   </footer>
 
+  <div id="tooltip" class="tooltip" role="status" aria-live="polite" hidden></div>
+
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="../js/main.js"></script>
+  <script src="../js/chart-first-nations.js"></script>
 </body>
 </html>

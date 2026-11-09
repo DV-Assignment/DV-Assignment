@@ -1,0 +1,309 @@
+"status","category","year","dimension","cases","n_suppressed_halves","cases_group_total","Share_pct"
+"First Nations people","0-7",2011,"Age group",92,0,1167,7.883461868037704
+"First Nations people","0-7",2012,"Age group",81,0,1404,5.769230769230769
+"First Nations people","0-7",2013,"Age group",78,0,1414,5.516265912305516
+"First Nations people","0-7",2014,"Age group",49,1,1407,3.482587064676617
+"First Nations people","0-7",2015,"Age group",79,0,1600,4.9375
+"First Nations people","0-7",2016,"Age group",89,0,1669,5.3325344517675255
+"First Nations people","0-7",2017,"Age group",81,0,1733,4.67397576457011
+"First Nations people","0-7",2018,"Age group",70,0,1930,3.6269430051813467
+"First Nations people","0-7",2019,"Age group",78,0,1856,4.202586206896552
+"First Nations people","0-7",2020,"Age group",82,0,2290,3.5807860262008733
+"First Nations people","0-7",2021,"Age group",86,0,2220,3.873873873873874
+"First Nations people","17-25",2011,"Age group",335,0,1167,28.70608397600686
+"First Nations people","17-25",2012,"Age group",385,0,1404,27.42165242165242
+"First Nations people","17-25",2013,"Age group",422,0,1414,29.84441301272984
+"First Nations people","17-25",2014,"Age group",422,0,1407,29.992892679459842
+"First Nations people","17-25",2015,"Age group",420,0,1600,26.25
+"First Nations people","17-25",2016,"Age group",501,0,1669,30.017974835230675
+"First Nations people","17-25",2017,"Age group",506,0,1733,29.197922677437973
+"First Nations people","17-25",2018,"Age group",607,0,1930,31.450777202072537
+"First Nations people","17-25",2019,"Age group",521,0,1856,28.07112068965517
+"First Nations people","17-25",2020,"Age group",705,0,2290,30.786026200873362
+"First Nations people","17-25",2021,"Age group",686,0,2220,30.9009009009009
+"First Nations people","26-39",2011,"Age group",286,0,1167,24.507283633247642
+"First Nations people","26-39",2012,"Age group",372,0,1404,26.495726495726498
+"First Nations people","26-39",2013,"Age group",366,0,1414,25.884016973125885
+"First Nations people","26-39",2014,"Age group",388,0,1407,27.57640369580668
+"First Nations people","26-39",2015,"Age group",449,0,1600,28.0625
+"First Nations people","26-39",2016,"Age group",422,0,1669,25.28460155781905
+"First Nations people","26-39",2017,"Age group",435,0,1733,25.100980957876512
+"First Nations people","26-39",2018,"Age group",542,0,1930,28.082901554404145
+"First Nations people","26-39",2019,"Age group",539,0,1856,29.040948275862068
+"First Nations people","26-39",2020,"Age group",659,0,2290,28.777292576419217
+"First Nations people","26-39",2021,"Age group",597,0,2220,26.891891891891888
+"First Nations people","40-64",2011,"Age group",226,0,1167,19.365895458440445
+"First Nations people","40-64",2012,"Age group",315,0,1404,22.435897435897438
+"First Nations people","40-64",2013,"Age group",279,0,1414,19.731258840169733
+"First Nations people","40-64",2014,"Age group",314,0,1407,22.316986496090973
+"First Nations people","40-64",2015,"Age group",372,0,1600,23.25
+"First Nations people","40-64",2016,"Age group",374,0,1669,22.408627920910725
+"First Nations people","40-64",2017,"Age group",418,0,1733,24.1200230813618
+"First Nations people","40-64",2018,"Age group",411,0,1930,21.295336787564768
+"First Nations people","40-64",2019,"Age group",411,0,1856,22.14439655172414
+"First Nations people","40-64",2020,"Age group",496,0,2290,21.65938864628821
+"First Nations people","40-64",2021,"Age group",515,0,2220,23.1981981981982
+"First Nations people","65+",2011,"Age group",24,0,1167,2.056555269922879
+"First Nations people","65+",2012,"Age group",22,0,1404,1.566951566951567
+"First Nations people","65+",2013,"Age group",27,0,1414,1.9094766619519095
+"First Nations people","65+",2014,"Age group",14,1,1407,0.9950248756218906
+"First Nations people","65+",2015,"Age group",41,0,1600,2.5625
+"First Nations people","65+",2016,"Age group",29,0,1669,1.7375674056321149
+"First Nations people","65+",2017,"Age group",42,0,1733,2.423542989036353
+"First Nations people","65+",2018,"Age group",47,0,1930,2.4352331606217614
+"First Nations people","65+",2019,"Age group",59,0,1856,3.1788793103448274
+"First Nations people","65+",2020,"Age group",53,0,2290,2.3144104803493453
+"First Nations people","65+",2021,"Age group",45,0,2220,2.027027027027027
+"First Nations people","8-16",2011,"Age group",204,0,1167,17.480719794344473
+"First Nations people","8-16",2012,"Age group",229,0,1404,16.31054131054131
+"First Nations people","8-16",2013,"Age group",242,0,1414,17.114568599717114
+"First Nations people","8-16",2014,"Age group",220,0,1407,15.636105188343993
+"First Nations people","8-16",2015,"Age group",239,0,1600,14.9375
+"First Nations people","8-16",2016,"Age group",254,0,1669,15.218693828639903
+"First Nations people","8-16",2017,"Age group",251,0,1733,14.483554529717255
+"First Nations people","8-16",2018,"Age group",253,0,1930,13.10880829015544
+"First Nations people","8-16",2019,"Age group",248,0,1856,13.36206896551724
+"First Nations people","8-16",2020,"Age group",295,0,2290,12.882096069868995
+"First Nations people","8-16",2021,"Age group",291,0,2220,13.108108108108107
+"First Nations people","Bus occupant",2011,"Road user",,1,1150,
+"First Nations people","Bus occupant",2012,"Road user",5,1,1396,0.35816618911174786
+"First Nations people","Bus occupant",2013,"Road user",,2,1402,
+"First Nations people","Bus occupant",2014,"Road user",,2,1439,
+"First Nations people","Bus occupant",2015,"Road user",6,1,1594,0.37641154328732745
+"First Nations people","Bus occupant",2016,"Road user",9,1,1657,0.5431502715751357
+"First Nations people","Bus occupant",2017,"Road user",,2,1717,
+"First Nations people","Bus occupant",2018,"Road user",6,1,1924,0.31185031185031187
+"First Nations people","Bus occupant",2019,"Road user",,2,1833,
+"First Nations people","Bus occupant",2020,"Road user",10,0,2290,0.43668122270742354
+"First Nations people","Bus occupant",2021,"Road user",7,1,2214,0.31616982836495033
+"First Nations people","Car driver, passenger or unknown position",2011,"Road user",617,0,1150,53.65217391304348
+"First Nations people","Car driver, passenger or unknown position",2012,"Road user",758,0,1396,54.297994269340975
+"First Nations people","Car driver, passenger or unknown position",2013,"Road user",755,0,1402,53.85164051355207
+"First Nations people","Car driver, passenger or unknown position",2014,"Road user",759,0,1439,52.7449617790132
+"First Nations people","Car driver, passenger or unknown position",2015,"Road user",883,0,1594,55.395232120451695
+"First Nations people","Car driver, passenger or unknown position",2016,"Road user",928,0,1657,56.004828002414
+"First Nations people","Car driver, passenger or unknown position",2017,"Road user",938,0,1717,54.63016889924287
+"First Nations people","Car driver, passenger or unknown position",2018,"Road user",1113,0,1924,57.84823284823285
+"First Nations people","Car driver, passenger or unknown position",2019,"Road user",996,0,1833,54.337152209492636
+"First Nations people","Car driver, passenger or unknown position",2020,"Road user",1208,0,2290,52.75109170305677
+"First Nations people","Car driver, passenger or unknown position",2021,"Road user",1158,0,2214,52.30352303523035
+"First Nations people","Heavy transport driver, passenger or unknown position",2011,"Road user",11,1,1150,0.9565217391304347
+"First Nations people","Heavy transport driver, passenger or unknown position",2012,"Road user",5,1,1396,0.35816618911174786
+"First Nations people","Heavy transport driver, passenger or unknown position",2013,"Road user",10,1,1402,0.7132667617689016
+"First Nations people","Heavy transport driver, passenger or unknown position",2014,"Road user",15,0,1439,1.0423905489923557
+"First Nations people","Heavy transport driver, passenger or unknown position",2015,"Road user",15,0,1594,0.9410288582183186
+"First Nations people","Heavy transport driver, passenger or unknown position",2016,"Road user",14,0,1657,0.8449004224502112
+"First Nations people","Heavy transport driver, passenger or unknown position",2017,"Road user",15,0,1717,0.8736167734420501
+"First Nations people","Heavy transport driver, passenger or unknown position",2018,"Road user",20,0,1924,1.0395010395010396
+"First Nations people","Heavy transport driver, passenger or unknown position",2019,"Road user",12,1,1833,0.6546644844517185
+"First Nations people","Heavy transport driver, passenger or unknown position",2020,"Road user",10,0,2290,0.43668122270742354
+"First Nations people","Heavy transport driver, passenger or unknown position",2021,"Road user",7,1,2214,0.31616982836495033
+"First Nations people","Motorcyclist",2011,"Road user",187,0,1150,16.26086956521739
+"First Nations people","Motorcyclist",2012,"Road user",218,0,1396,15.616045845272206
+"First Nations people","Motorcyclist",2013,"Road user",267,0,1402,19.044222539229672
+"First Nations people","Motorcyclist",2014,"Road user",254,0,1439,17.651146629603893
+"First Nations people","Motorcyclist",2015,"Road user",273,0,1594,17.126725219573398
+"First Nations people","Motorcyclist",2016,"Road user",296,0,1657,17.863608931804468
+"First Nations people","Motorcyclist",2017,"Road user",319,0,1717,18.578916715200933
+"First Nations people","Motorcyclist",2018,"Road user",333,0,1924,17.307692307692307
+"First Nations people","Motorcyclist",2019,"Road user",353,0,1833,19.258046917621385
+"First Nations people","Motorcyclist",2020,"Road user",545,0,2290,23.799126637554586
+"First Nations people","Motorcyclist",2021,"Road user",520,0,2214,23.486901535682023
+"First Nations people","Other or unknown",2011,"Road user",34,0,1150,2.9565217391304346
+"First Nations people","Other or unknown",2012,"Road user",30,0,1396,2.148997134670487
+"First Nations people","Other or unknown",2013,"Road user",25,0,1402,1.783166904422254
+"First Nations people","Other or unknown",2014,"Road user",38,0,1439,2.640722724113968
+"First Nations people","Other or unknown",2015,"Road user",28,0,1594,1.7565872020075282
+"First Nations people","Other or unknown",2016,"Road user",25,0,1657,1.508750754375377
+"First Nations people","Other or unknown",2017,"Road user",35,0,1717,2.03843913803145
+"First Nations people","Other or unknown",2018,"Road user",37,0,1924,1.9230769230769231
+"First Nations people","Other or unknown",2019,"Road user",10,1,1833,0.5455537370430987
+"First Nations people","Other or unknown",2020,"Road user",45,0,2290,1.9650655021834063
+"First Nations people","Other or unknown",2021,"Road user",52,0,2214,2.3486901535682025
+"First Nations people","Pedal cyclist",2011,"Road user",121,0,1150,10.521739130434783
+"First Nations people","Pedal cyclist",2012,"Road user",152,0,1396,10.888252148997136
+"First Nations people","Pedal cyclist",2013,"Road user",173,0,1402,12.339514978601997
+"First Nations people","Pedal cyclist",2014,"Road user",177,0,1439,12.300208478109798
+"First Nations people","Pedal cyclist",2015,"Road user",177,0,1594,11.104140526976161
+"First Nations people","Pedal cyclist",2016,"Road user",190,0,1657,11.466505733252868
+"First Nations people","Pedal cyclist",2017,"Road user",201,0,1717,11.70646476412347
+"First Nations people","Pedal cyclist",2018,"Road user",199,0,1924,10.343035343035343
+"First Nations people","Pedal cyclist",2019,"Road user",240,0,1833,13.093289689034371
+"First Nations people","Pedal cyclist",2020,"Road user",230,0,2290,10.043668122270741
+"First Nations people","Pedal cyclist",2021,"Road user",207,0,2214,9.34959349593496
+"First Nations people","Pedestrian",2011,"Road user",180,0,1150,15.65217391304348
+"First Nations people","Pedestrian",2012,"Road user",219,0,1396,15.687679083094554
+"First Nations people","Pedestrian",2013,"Road user",166,0,1402,11.840228245363766
+"First Nations people","Pedestrian",2014,"Road user",196,0,1439,13.620569840166782
+"First Nations people","Pedestrian",2015,"Road user",206,0,1594,12.923462986198246
+"First Nations people","Pedestrian",2016,"Road user",190,0,1657,11.466505733252868
+"First Nations people","Pedestrian",2017,"Road user",209,0,1717,12.17239370995923
+"First Nations people","Pedestrian",2018,"Road user",209,0,1924,10.862785862785863
+"First Nations people","Pedestrian",2019,"Road user",211,0,1833,11.511183851609383
+"First Nations people","Pedestrian",2020,"Road user",223,0,2290,9.737991266375545
+"First Nations people","Pedestrian",2021,"Road user",235,0,2214,10.61427280939476
+"First Nations people","Pick-up truck or van occupant",2011,"Road user",,2,1150,
+"First Nations people","Pick-up truck or van occupant",2012,"Road user",9,1,1396,0.6446991404011462
+"First Nations people","Pick-up truck or van occupant",2013,"Road user",6,1,1402,0.42796005706134094
+"First Nations people","Pick-up truck or van occupant",2014,"Road user",,2,1439,
+"First Nations people","Pick-up truck or van occupant",2015,"Road user",6,1,1594,0.37641154328732745
+"First Nations people","Pick-up truck or van occupant",2016,"Road user",5,1,1657,0.30175015087507545
+"First Nations people","Pick-up truck or van occupant",2017,"Road user",,2,1717,
+"First Nations people","Pick-up truck or van occupant",2018,"Road user",7,1,1924,0.36382536382536385
+"First Nations people","Pick-up truck or van occupant",2019,"Road user",11,0,1833,0.6001091107474086
+"First Nations people","Pick-up truck or van occupant",2020,"Road user",19,0,2290,0.8296943231441047
+"First Nations people","Pick-up truck or van occupant",2021,"Road user",28,0,2214,1.2646793134598013
+"Non-Indigenous","0-7",2011,"Age group",614,0,31997,1.918929899678095
+"Non-Indigenous","0-7",2012,"Age group",653,0,31790,2.0541050644856873
+"Non-Indigenous","0-7",2013,"Age group",647,0,32839,1.9702183379518254
+"Non-Indigenous","0-7",2014,"Age group",315,1,30785,1.0232255968815982
+"Non-Indigenous","0-7",2015,"Age group",654,0,34773,1.8807695625916658
+"Non-Indigenous","0-7",2016,"Age group",634,0,36684,1.7282739068803838
+"Non-Indigenous","0-7",2017,"Age group",642,0,37030,1.7337294085876316
+"Non-Indigenous","0-7",2018,"Age group",646,0,37198,1.7366525081993656
+"Non-Indigenous","0-7",2019,"Age group",616,0,37482,1.6434555253188197
+"Non-Indigenous","0-7",2020,"Age group",620,0,35186,1.7620644574546696
+"Non-Indigenous","0-7",2021,"Age group",610,0,36755,1.65963814447014
+"Non-Indigenous","17-25",2011,"Age group",7546,0,31997,23.583460949464012
+"Non-Indigenous","17-25",2012,"Age group",7459,0,31790,23.4633532557408
+"Non-Indigenous","17-25",2013,"Age group",7251,0,32839,22.080453119766133
+"Non-Indigenous","17-25",2014,"Age group",7150,0,30785,23.225596881598182
+"Non-Indigenous","17-25",2015,"Age group",7316,0,34773,21.03931210997038
+"Non-Indigenous","17-25",2016,"Age group",7839,0,36684,21.36898920510304
+"Non-Indigenous","17-25",2017,"Age group",7856,0,37030,21.215230893869837
+"Non-Indigenous","17-25",2018,"Age group",7622,0,37198,20.490348943491586
+"Non-Indigenous","17-25",2019,"Age group",7486,0,37482,19.97225334827384
+"Non-Indigenous","17-25",2020,"Age group",7183,0,35186,20.4143693514466
+"Non-Indigenous","17-25",2021,"Age group",7225,0,36755,19.65718949802748
+"Non-Indigenous","26-39",2011,"Age group",7659,0,31997,23.93661905803669
+"Non-Indigenous","26-39",2012,"Age group",7670,0,31790,24.127083988675686
+"Non-Indigenous","26-39",2013,"Age group",7929,0,32839,24.145071408995403
+"Non-Indigenous","26-39",2014,"Age group",8107,0,30785,26.334253694981324
+"Non-Indigenous","26-39",2015,"Age group",8369,0,34773,24.067523653409253
+"Non-Indigenous","26-39",2016,"Age group",8897,0,36684,24.25308036201069
+"Non-Indigenous","26-39",2017,"Age group",8926,0,37030,24.104779908182554
+"Non-Indigenous","26-39",2018,"Age group",9100,0,37198,24.46368084305608
+"Non-Indigenous","26-39",2019,"Age group",8968,0,37482,23.926151219251906
+"Non-Indigenous","26-39",2020,"Age group",8405,0,35186,23.8873415563008
+"Non-Indigenous","26-39",2021,"Age group",8689,0,36755,23.640321044755815
+"Non-Indigenous","40-64",2011,"Age group",10166,0,31997,31.77172859955621
+"Non-Indigenous","40-64",2012,"Age group",10081,0,31790,31.711229946524067
+"Non-Indigenous","40-64",2013,"Age group",10820,0,32839,32.948628155546764
+"Non-Indigenous","40-64",2014,"Age group",11105,0,30785,36.07276270911158
+"Non-Indigenous","40-64",2015,"Age group",11587,0,34773,33.32183015558048
+"Non-Indigenous","40-64",2016,"Age group",12157,0,36684,33.13978846363537
+"Non-Indigenous","40-64",2017,"Age group",12329,0,37030,33.294625978936
+"Non-Indigenous","40-64",2018,"Age group",12381,0,37198,33.28404752943707
+"Non-Indigenous","40-64",2019,"Age group",12579,0,37482,33.56010885224908
+"Non-Indigenous","40-64",2020,"Age group",11674,0,35186,33.17796851020292
+"Non-Indigenous","40-64",2021,"Age group",12337,0,36755,33.565501292341175
+"Non-Indigenous","65+",2011,"Age group",3735,0,31997,11.672969340875706
+"Non-Indigenous","65+",2012,"Age group",3862,0,31790,12.148474363007235
+"Non-Indigenous","65+",2013,"Age group",4081,0,32839,12.427296811717776
+"Non-Indigenous","65+",2014,"Age group",2128,1,30785,6.9124573656001305
+"Non-Indigenous","65+",2015,"Age group",4671,0,34773,13.432835820895523
+"Non-Indigenous","65+",2016,"Age group",4957,0,36684,13.512703085813978
+"Non-Indigenous","65+",2017,"Age group",5055,0,37030,13.651093707804481
+"Non-Indigenous","65+",2018,"Age group",5305,0,37198,14.261519436528847
+"Non-Indigenous","65+",2019,"Age group",5614,0,37482,14.977856037564699
+"Non-Indigenous","65+",2020,"Age group",4826,0,35186,13.715682373671347
+"Non-Indigenous","65+",2021,"Age group",5361,0,36755,14.585770643449871
+"Non-Indigenous","8-16",2011,"Age group",2277,0,31997,7.116292152389287
+"Non-Indigenous","8-16",2012,"Age group",2065,0,31790,6.49575338156653
+"Non-Indigenous","8-16",2013,"Age group",2111,0,32839,6.428332166022107
+"Non-Indigenous","8-16",2014,"Age group",1980,0,30785,6.43170375182719
+"Non-Indigenous","8-16",2015,"Age group",2176,0,34773,6.2577286975526984
+"Non-Indigenous","8-16",2016,"Age group",2200,0,36684,5.997164976556537
+"Non-Indigenous","8-16",2017,"Age group",2222,0,37030,6.000540102619498
+"Non-Indigenous","8-16",2018,"Age group",2144,0,37198,5.763750739287059
+"Non-Indigenous","8-16",2019,"Age group",2219,0,37482,5.920175017341657
+"Non-Indigenous","8-16",2020,"Age group",2478,0,35186,7.042573750923663
+"Non-Indigenous","8-16",2021,"Age group",2533,0,36755,6.891579376955516
+"Non-Indigenous","Bus occupant",2011,"Road user",117,1,31441,0.37212556852517414
+"Non-Indigenous","Bus occupant",2012,"Road user",111,1,31347,0.35410087089673653
+"Non-Indigenous","Bus occupant",2013,"Road user",,2,32310,
+"Non-Indigenous","Bus occupant",2014,"Road user",,2,32859,
+"Non-Indigenous","Bus occupant",2015,"Road user",129,1,34539,0.373490836445757
+"Non-Indigenous","Bus occupant",2016,"Road user",130,1,36419,0.35695653367747604
+"Non-Indigenous","Bus occupant",2017,"Road user",,2,36520,
+"Non-Indigenous","Bus occupant",2018,"Road user",128,1,36942,0.3464890910075253
+"Non-Indigenous","Bus occupant",2019,"Road user",,2,36671,
+"Non-Indigenous","Bus occupant",2020,"Road user",160,0,35186,0.454726311601205
+"Non-Indigenous","Bus occupant",2021,"Road user",84,1,36450,0.23045267489711935
+"Non-Indigenous","Car driver, passenger or unknown position",2011,"Road user",15597,0,31441,49.60720078877898
+"Non-Indigenous","Car driver, passenger or unknown position",2012,"Road user",15250,0,31347,48.64899352410119
+"Non-Indigenous","Car driver, passenger or unknown position",2013,"Road user",15439,0,32310,47.78396781182296
+"Non-Indigenous","Car driver, passenger or unknown position",2014,"Road user",15363,0,32859,46.75431388660641
+"Non-Indigenous","Car driver, passenger or unknown position",2015,"Road user",16692,0,34539,48.32797706939981
+"Non-Indigenous","Car driver, passenger or unknown position",2016,"Road user",17872,0,36419,49.07328592218347
+"Non-Indigenous","Car driver, passenger or unknown position",2017,"Road user",17901,0,36520,49.01697699890471
+"Non-Indigenous","Car driver, passenger or unknown position",2018,"Road user",18337,0,36942,49.637269232851494
+"Non-Indigenous","Car driver, passenger or unknown position",2019,"Road user",18006,0,36671,49.101469826293254
+"Non-Indigenous","Car driver, passenger or unknown position",2020,"Road user",15843,0,35186,45.02643096686182
+"Non-Indigenous","Car driver, passenger or unknown position",2021,"Road user",17098,0,36450,46.908093278463646
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2011,"Road user",287,1,31441,0.9128208390318373
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2012,"Road user",251,1,31347,0.8007145819376655
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2013,"Road user",243,1,32310,0.7520891364902507
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2014,"Road user",449,0,32859,1.3664445053105694
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2015,"Road user",479,0,34539,1.3868380671125395
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2016,"Road user",452,0,36419,1.241110409401686
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2017,"Road user",500,0,36520,1.3691128148959473
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2018,"Road user",524,0,36942,1.4184397163120568
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2019,"Road user",240,1,36671,0.654468108314472
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2020,"Road user",476,0,35186,1.352810777013585
+"Non-Indigenous","Heavy transport driver, passenger or unknown position",2021,"Road user",223,1,36450,0.6117969821673526
+"Non-Indigenous","Motorcyclist",2011,"Road user",7185,0,31441,22.852326579943387
+"Non-Indigenous","Motorcyclist",2012,"Road user",7348,0,31347,23.440839633776758
+"Non-Indigenous","Motorcyclist",2013,"Road user",7617,0,32310,23.574744661095636
+"Non-Indigenous","Motorcyclist",2014,"Road user",7919,0,32859,24.09994217718129
+"Non-Indigenous","Motorcyclist",2015,"Road user",7855,0,34539,22.742407133964505
+"Non-Indigenous","Motorcyclist",2016,"Road user",8111,0,36419,22.27134188198468
+"Non-Indigenous","Motorcyclist",2017,"Road user",8318,0,36520,22.776560788608982
+"Non-Indigenous","Motorcyclist",2018,"Road user",8200,0,36942,22.19695739266959
+"Non-Indigenous","Motorcyclist",2019,"Road user",8463,0,36671,23.078181669439065
+"Non-Indigenous","Motorcyclist",2020,"Road user",8038,0,35186,22.844313079065536
+"Non-Indigenous","Motorcyclist",2021,"Road user",8259,0,36450,22.65843621399177
+"Non-Indigenous","Other or unknown",2011,"Road user",559,0,31441,1.7779332718424987
+"Non-Indigenous","Other or unknown",2012,"Road user",489,0,31347,1.5599578907072447
+"Non-Indigenous","Other or unknown",2013,"Road user",504,0,32310,1.5598885793871866
+"Non-Indigenous","Other or unknown",2014,"Road user",458,0,32859,1.393834261541739
+"Non-Indigenous","Other or unknown",2015,"Road user",464,0,34539,1.343408900083963
+"Non-Indigenous","Other or unknown",2016,"Road user",575,0,36419,1.5788462066503746
+"Non-Indigenous","Other or unknown",2017,"Road user",554,0,36520,1.5169769989047097
+"Non-Indigenous","Other or unknown",2018,"Road user",551,0,36942,1.4915272589464565
+"Non-Indigenous","Other or unknown",2019,"Road user",273,1,36671,0.7444574732077118
+"Non-Indigenous","Other or unknown",2020,"Road user",525,0,35186,1.4920707099414539
+"Non-Indigenous","Other or unknown",2021,"Road user",541,0,36450,1.4842249657064472
+"Non-Indigenous","Pedal cyclist",2011,"Road user",5174,0,31441,16.456219585891034
+"Non-Indigenous","Pedal cyclist",2012,"Road user",5379,0,31347,17.159536797779694
+"Non-Indigenous","Pedal cyclist",2013,"Road user",5985,0,32310,18.52367688022284
+"Non-Indigenous","Pedal cyclist",2014,"Road user",6354,0,32859,19.3371678992057
+"Non-Indigenous","Pedal cyclist",2015,"Road user",6435,0,34539,18.631112655259273
+"Non-Indigenous","Pedal cyclist",2016,"Road user",6613,0,36419,18.158104286224226
+"Non-Indigenous","Pedal cyclist",2017,"Road user",6782,0,36520,18.57064622124863
+"Non-Indigenous","Pedal cyclist",2018,"Road user",6676,0,36942,18.071571652861245
+"Non-Indigenous","Pedal cyclist",2019,"Road user",6984,0,36671,19.04502195195113
+"Non-Indigenous","Pedal cyclist",2020,"Road user",8012,0,35186,22.77042005343034
+"Non-Indigenous","Pedal cyclist",2021,"Road user",7861,0,36450,21.56652949245542
+"Non-Indigenous","Pedestrian",2011,"Road user",2522,0,31441,8.021373365987088
+"Non-Indigenous","Pedestrian",2012,"Road user",2390,0,31347,7.624334067055859
+"Non-Indigenous","Pedestrian",2013,"Road user",2409,0,32310,7.4558960074280405
+"Non-Indigenous","Pedestrian",2014,"Road user",2316,0,32859,7.048297270154295
+"Non-Indigenous","Pedestrian",2015,"Road user",2378,0,34539,6.884970612930311
+"Non-Indigenous","Pedestrian",2016,"Road user",2514,0,36419,6.902990197424422
+"Non-Indigenous","Pedestrian",2017,"Road user",2465,0,36520,6.7497261774370205
+"Non-Indigenous","Pedestrian",2018,"Road user",2412,0,36942,6.529153808673055
+"Non-Indigenous","Pedestrian",2019,"Road user",2461,0,36671,6.711025060674647
+"Non-Indigenous","Pedestrian",2020,"Road user",1857,0,35186,5.277667254021486
+"Non-Indigenous","Pedestrian",2021,"Road user",2072,0,36450,5.684499314128944
+"Non-Indigenous","Pick-up truck or van occupant",2011,"Road user",,2,31441,
+"Non-Indigenous","Pick-up truck or van occupant",2012,"Road user",129,1,31347,0.411522633744856
+"Non-Indigenous","Pick-up truck or van occupant",2013,"Road user",113,1,32310,0.34973692355307956
+"Non-Indigenous","Pick-up truck or van occupant",2014,"Road user",,2,32859,
+"Non-Indigenous","Pick-up truck or van occupant",2015,"Road user",107,1,34539,0.30979472480384496
+"Non-Indigenous","Pick-up truck or van occupant",2016,"Road user",152,1,36419,0.4173645624536643
+"Non-Indigenous","Pick-up truck or van occupant",2017,"Road user",,2,36520,
+"Non-Indigenous","Pick-up truck or van occupant",2018,"Road user",114,1,36942,0.30859184667857725
+"Non-Indigenous","Pick-up truck or van occupant",2019,"Road user",244,0,36671,0.6653759101197131
+"Non-Indigenous","Pick-up truck or van occupant",2020,"Road user",275,0,35186,0.781560848064571
+"Non-Indigenous","Pick-up truck or van occupant",2021,"Road user",312,0,36450,0.8559670781893004

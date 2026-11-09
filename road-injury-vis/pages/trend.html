@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Q1 National trend | Beyond the Road Toll</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Barlow:wght@400;500;600;700&display=swap">
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -19,24 +22,85 @@
     </div>
   </nav>
 
-  <main>
-    <section id="trend">
-      <p class="q-label">Question 1 of 5</p>
-      <h2>National trend</h2>
-      <p>How did the number of hospitalisations after road crashes in Australia change from 2011 to 2021, and which changes reflect real trends rather than the breaks in the series caused by changes in Victoria (from 2012) and New South Wales (from June 2017)?</p>
-      <div class="chart" id="chart-trend"><p>Chart coming soon</p></div>
-    </section>
-
-    <div class="pager">
-      <a class="prev" href="../index.html">&larr; Home</a>
-      <a class="next" href="road-users.html">Q2 Road users &rarr;</a>
+  <header class="page-hero">
+    <div class="wrap page-hero-inner">
+      <span class="q-num" aria-hidden="true">01</span>
+      <p class="eyebrow">Question 1 of 5</p>
+      <h1>National trend</h1>
+      <p class="lead">How did the number of hospitalisations after road crashes in Australia change from 2011 to 2021, and which changes reflect real trends rather than the breaks in the series caused by changes in Victoria (from 2012) and New South Wales (from June 2017)?</p>
+      <ol class="journey" aria-label="Story progress">
+        <li class="done"><a href="../index.html"><span class="stop-label"><small>Start</small>Home</span></a></li>
+        <li><a href="trend.html" aria-current="page"><span class="stop-label"><small>Q1</small>Trend</span></a></li>
+        <li><a href="road-users.html"><span class="stop-label"><small>Q2</small>Road users</span></a></li>
+        <li><a href="age-sex.html"><span class="stop-label"><small>Q3</small>Age &amp; sex</span></a></li>
+        <li><a href="states.html"><span class="stop-label"><small>Q4</small>States</span></a></li>
+        <li><a href="first-nations.html"><span class="stop-label"><small>Q5</small>First Nations</span></a></li>
+      </ol>
     </div>
+    <div class="road-strip" aria-hidden="true"></div>
+  </header>
+
+  <main class="wrap q-main" id="trend">
+    <div class="stat-row three">
+      <div class="stat"><span class="num">39,505</span><span class="label">non-fatal cases in 2021, up from 34,033 in 2011</span></div>
+      <div class="stat"><span class="num">+16%</span><span class="label">rise over the decade, mostly between 2013 and 2016</span></div>
+      <div class="stat"><span class="num">&minus;4.8%</span><span class="label">drop in 2020, before cases rose again in 2021</span></div>
+    </div>
+
+    <figure class="chart-card">
+      <figcaption>
+        <span class="chart-title">Non-fatal hospitalised road crash injuries, Australia, 2011–2021</span>
+        <span class="chart-sub">Number of cases per calendar year. Dashed lines mark changes in how admissions were counted. Hover a point for details, or click it to pin them. Click anywhere to close.</span>
+      </figcaption>
+      <div class="chart" id="chart-trend" role="img" aria-label="Line chart of yearly non-fatal hospitalised road crash injuries in Australia from 2011 to 2021, rising from 34,033 to 39,505, with a dip in 2020."><p>Loading chart…</p></div>
+      <p class="source">Source: BITRE Hospitalised Injury, September 2023 release. Processed in KNIME.</p>
+    </figure>
+
+    <div class="insight">
+      <div class="takeaway">
+        <h2>What the data says</h2>
+        <p>Cases went from <strong>34,033 in 2011</strong> to <strong>39,505 in 2021</strong>, a rise of about 16%. Most of the growth happened between 2013 and 2016. In 2020 cases fell by 4.8%, then rose again in 2021.</p>
+      </div>
+      <aside class="aside">
+        <h2>Keep in mind</h2>
+        <p>Victoria (from July 2012) and New South Wales (from June 2017) stopped counting people treated only in emergency departments as admissions. These changes lower the counts after each line, so the real rise may be larger than shown.</p>
+      </aside>
+    </div>
+
+    <nav class="pager" aria-label="Question navigation">
+      <a class="prev" href="../index.html"><small>&larr; Back to</small><span>Home</span></a>
+      <a class="next" href="road-users.html"><small>Next stop &rarr;</small><span>Q2 Road users</span></a>
+    </nav>
   </main>
 
   <footer>
-    <p>Data: Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+    <div class="road-strip" aria-hidden="true"></div>
+    <div class="wrap footer-grid">
+      <div>
+        <a class="brand" href="../index.html">Beyond the <span>Road Toll</span></a>
+        <p>An interactive data story on hospitalised road crash injuries in Australia, 2011–2021.</p>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          <li><a href="trend.html">Trend</a></li>
+          <li><a href="road-users.html">Road users</a></li>
+          <li><a href="age-sex.html">Age &amp; sex</a></li>
+          <li><a href="states.html">States</a></li>
+          <li><a href="first-nations.html">First Nations</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Data</h3>
+        <p>Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+      </div>
+    </div>
   </footer>
 
+  <div id="tooltip" class="tooltip" role="status" aria-live="polite" hidden></div>
+
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="../js/main.js"></script>
+  <script src="../js/chart-trend.js"></script>
 </body>
 </html>

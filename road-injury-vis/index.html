@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Interactive data story on hospitalised injuries from road crashes in Australia, 2011–2021">
   <title>Beyond the Road Toll</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Barlow:wght@400;500;600;700&display=swap">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -20,49 +23,153 @@
     </div>
   </nav>
 
-  <header>
-    <h1>Beyond the Road Toll</h1>
-    <p class="subtitle">Who ends up in hospital after Australian road crashes, 2011–2021</p>
+  <header class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Australia · 2011–2021 · A data story</p>
+        <h1>Beyond the <span>Road Toll</span></h1>
+        <p class="lead">Who ends up in hospital after Australian road crashes, and how that changed over a decade.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="pages/trend.html">Start the story <span class="arrow" aria-hidden="true">&rarr;</span></a>
+          <a class="btn btn-ghost" href="#about-data">About the data</a>
+        </div>
+      </div>
+
+      <!-- Figures from data/processed/q1_national_trend.csv (2021) -->
+      <div class="hero-figure">
+        <span class="big" data-count="39505">39,505</span>
+        <p>people hospitalised after a road crash in 2021, not counting those who died.</p>
+        <div class="per-day"><b>≈108</b> every single day</div>
+      </div>
+    </div>
+    <div class="road-strip" aria-hidden="true"></div>
   </header>
 
   <main>
-    <section id="intro">
-      <h2>About this story</h2>
-      <p>Road safety news usually counts deaths, but far more people are hospitalised after road crashes. This site explores who is hospitalised in Australia and how this changed from 2011 to 2021, with a focus on motorcyclists, pedal cyclists and pedestrians.</p>
-
-      <!-- DUMMY DATA: replace these figures with values from data/processed/ -->
-      <span class="placeholder-tag">Placeholder figures</span>
-      <div class="stats">
-        <div class="stat"><strong>39,000</strong><span>hospitalisations per year</span></div>
-        <div class="stat"><strong>1,150</strong><span>road deaths per year</span></div>
-        <div class="stat"><strong>34&times;</strong><span>more hospitalised than killed</span></div>
-        <div class="stat"><strong>+18%</strong><span>change, 2011 to 2021</span></div>
+    <!-- Intro -->
+    <section class="wrap block" id="intro">
+      <div class="intro-grid">
+        <p class="pull">The news counts deaths. <mark>Far more people</mark> end up in hospital.</p>
+        <div class="intro-body">
+          <p>Road safety news usually counts deaths, but far more people are admitted to hospital after road crashes than are killed in them.</p>
+          <p>This site explores who is hospitalised in Australia and how this changed from 2011 to 2021, with a focus on the most exposed road users: <strong>motorcyclists, pedal cyclists and pedestrians</strong>.</p>
+        </div>
       </div>
 
-      <div class="mix">
-        <div class="mix-row"><span>Car occupants</span><div class="mix-bar"><i style="--w: 45%"></i></div><b>45%</b></div>
-        <div class="mix-row"><span>Motorcyclists</span><div class="mix-bar"><i style="--w: 25%"></i></div><b>25%</b></div>
-        <div class="mix-row"><span>Pedal cyclists</span><div class="mix-bar"><i style="--w: 17%"></i></div><b>17%</b></div>
-        <div class="mix-row"><span>Pedestrians</span><div class="mix-bar"><i style="--w: 9%"></i></div><b>9%</b></div>
-        <div class="mix-row"><span>Other</span><div class="mix-bar"><i style="--w: 4%"></i></div><b>4%</b></div>
+      <!-- Figures from data/processed/q1_national_trend.csv and q2_road_user_share.csv -->
+      <div class="stat-row">
+        <div class="stat"><span class="num">+16%</span><span class="label">more cases in 2021 than in 2011</span></div>
+        <div class="stat"><span class="num">49%</span><span class="label">were motorcyclists, pedal cyclists or pedestrians</span></div>
+        <div class="stat"><span class="num">+51%</span><span class="label">more injured pedal cyclists, 2011 to 2021</span></div>
+        <div class="stat"><span class="num">198,934</span><span class="label">days spent in hospital beds in 2021</span></div>
       </div>
 
-      <p class="note">Note: the data are counts of hospital admission cases after road crashes, not crashes or deaths. Raw counts are not adjusted for population size.</p>
-      <div id="d3-check"></div>
+      <!-- Road user mix, 2021 -->
+      <div class="mix-wrap">
+        <h2 class="mix-title">Who was hurt, 2021</h2>
+        <div class="mix-lane" role="img" aria-label="Share of cases by road user in 2021: motorcyclists 22.5%, pedal cyclists 20.7%, pedestrians 5.9%, car occupants 46.9%, other 4.0%. Motorcyclists, pedal cyclists and pedestrians together are 49.1%.">
+          <div class="mix-bracket" style="--w: 49.1%"><span>Riders &amp; walkers 49.1%</span></div>
+          <div class="mix-bar">
+            <i style="--w: 22.5%; --c: var(--c-moto)"></i>
+            <i style="--w: 20.7%; --c: var(--c-cycle)"></i>
+            <i style="--w: 5.9%; --c: var(--c-ped)"></i>
+            <i style="--w: 46.9%; --c: var(--c-car)"></i>
+            <i style="--w: 4.0%; --c: var(--c-other)"></i>
+          </div>
+        </div>
+        <ul class="mix-key" aria-hidden="true">
+          <li style="--c: var(--c-moto)"><b>22.5%</b>Motorcyclists</li>
+          <li style="--c: var(--c-cycle)"><b>20.7%</b>Pedal cyclists</li>
+          <li style="--c: var(--c-ped)"><b>5.9%</b>Pedestrians</li>
+          <li style="--c: var(--c-car)"><b>46.9%</b>Car occupants</li>
+          <li style="--c: var(--c-other)"><b>4.0%</b>Other</li>
+        </ul>
+        <p class="fine">These are counts of hospital admission cases after road crashes, not crashes or deaths. Raw counts are not adjusted for population size.</p>
+      </div>
     </section>
 
-    <h2>Explore the questions</h2>
-    <div class="q-grid">
-      <a class="q-card" href="pages/trend.html"><small>Q1</small><h3>National trend</h3><p>How did hospitalisations change from 2011 to 2021?</p></a>
-      <a class="q-card" href="pages/road-users.html"><small>Q2</small><h3>Road users</h3><p>Which road user groups are hospitalised most?</p></a>
-      <a class="q-card" href="pages/age-sex.html"><small>Q3</small><h3>Age and sex</h3><p>Which age groups and sexes are hospitalised most?</p></a>
-      <a class="q-card" href="pages/states.html"><small>Q4</small><h3>States and territories</h3><p>How does the mix differ across states?</p></a>
-      <a class="q-card" href="pages/first-nations.html"><small>Q5</small><h3>First Nations Peoples</h3><p>How does their profile compare nationally?</p></a>
+    <!-- The route: five questions -->
+    <div class="route-section">
+      <section class="wrap block" id="questions">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">The route</p>
+            <h2>Five questions, five stops</h2>
+          </div>
+          <p>Each stop answers one question with one interactive chart. Hover, tap or use the keyboard on a chart to see the exact numbers.</p>
+        </div>
+
+        <ol class="route">
+          <li><a class="stop" href="pages/trend.html">
+            <span class="stop-marker">01</span>
+            <span class="stop-body"><small>National trend</small><h3>Up 16% in ten years</h3><p>Cases rose from 34,033 in 2011 to 39,505 in 2021, with a dip in 2020.</p></span>
+            <span class="stop-go" aria-hidden="true">&rarr;</span>
+          </a></li>
+          <li><a class="stop" href="pages/road-users.html">
+            <span class="stop-marker">02</span>
+            <span class="stop-body"><small>Road users</small><h3>Nearly half are riders or walkers</h3><p>Motorcyclists, pedal cyclists and pedestrians grew from 46% to 49% of cases.</p></span>
+            <span class="stop-go" aria-hidden="true">&rarr;</span>
+          </a></li>
+          <li><a class="stop" href="pages/age-sex.html">
+            <span class="stop-marker">03</span>
+            <span class="stop-body"><small>Age and sex</small><h3>Two in three are male</h3><p>Males were 65% of cases in 2021, and 89% of injured motorcyclists.</p></span>
+            <span class="stop-go" aria-hidden="true">&rarr;</span>
+          </a></li>
+          <li><a class="stop" href="pages/states.html">
+            <span class="stop-marker">04</span>
+            <span class="stop-body"><small>States and territories</small><h3>The NT's rate is more than double NSW's</h3><p>Per person, the Northern Territory's rate was more than twice that of New South Wales.</p></span>
+            <span class="stop-go" aria-hidden="true">&rarr;</span>
+          </a></li>
+          <li><a class="stop" href="pages/first-nations.html">
+            <span class="stop-marker">05</span>
+            <span class="stop-body"><small>First Nations Peoples</small><h3>Younger, and more often on foot</h3><p>Injured First Nations people were younger, and more often pedestrians.</p></span>
+            <span class="stop-go" aria-hidden="true">&rarr;</span>
+          </a></li>
+        </ol>
+      </section>
     </div>
+
+    <!-- About the data -->
+    <section class="wrap block" id="about-data">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Read before you drive in</p>
+          <h2>About the data</h2>
+        </div>
+        <p>What the numbers count, where they come from, and the breaks to keep in mind.</p>
+      </div>
+      <ul class="facts">
+        <li><h3>Source</h3><p>Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, September 2023 release, using hospital data from the Australian Institute of Health and Welfare (AIHW). Population for rates: Australian Bureau of Statistics (ABS), estimated resident population at June each year.</p></li>
+        <li><h3>What is counted</h3><p>Cases of hospital admission after a road crash, not counting cases that ended in death. A transfer to another hospital counts as one case, not two. The numbers are cases, not crashes or deaths.</p></li>
+        <li><h3>Counting changes</h3><p>Hospitals changed how some admissions were counted around 2012 and 2017. These are marked on the trend chart.</p></li>
+        <li><h3>Small numbers</h3><p>Some small counts are not published (n.p.) to protect privacy. These are shown as gaps, never as zero.</p></li>
+        <li><h3>States</h3><p>Cases are counted by the state where the person lives. The states and territories add up to slightly less than the Australian total.</p></li>
+      </ul>
+    </section>
   </main>
 
   <footer>
-    <p>Data: Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+    <div class="road-strip" aria-hidden="true"></div>
+    <div class="wrap footer-grid">
+      <div>
+        <a class="brand" href="index.html">Beyond the <span>Road Toll</span></a>
+        <p>An interactive data story on hospitalised road crash injuries in Australia, 2011–2021.</p>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          <li><a href="pages/trend.html">Trend</a></li>
+          <li><a href="pages/road-users.html">Road users</a></li>
+          <li><a href="pages/age-sex.html">Age &amp; sex</a></li>
+          <li><a href="pages/states.html">States</a></li>
+          <li><a href="pages/first-nations.html">First Nations</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Data</h3>
+        <p>Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+      </div>
+    </div>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
