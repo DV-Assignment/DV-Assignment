@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Q2 Road users | Beyond the Road Toll</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Barlow:wght@400;500;600;700&display=swap">
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -19,24 +22,86 @@
     </div>
   </nav>
 
-  <main>
-    <section id="road-users">
-      <p class="q-label">Question 2 of 5</p>
-      <h2>Road users</h2>
-      <p>Which road user groups are hospitalised most, and did the share of motorcyclists, pedal cyclists and pedestrians grow between 2011 and 2021?</p>
-      <div class="chart" id="chart-road-users"><p>Chart coming soon</p></div>
-    </section>
-
-    <div class="pager">
-      <a class="prev" href="trend.html">&larr; Q1 National trend</a>
-      <a class="next" href="age-sex.html">Q3 Age and sex &rarr;</a>
+  <header class="page-hero">
+    <div class="wrap page-hero-inner">
+      <span class="q-num" aria-hidden="true">02</span>
+      <p class="eyebrow">Question 2 of 5</p>
+      <h1>Road users</h1>
+      <p class="lead">Which road user groups are hospitalised most, and did the share of motorcyclists, pedal cyclists and pedestrians grow between 2011 and 2021?</p>
+      <ol class="journey" aria-label="Story progress">
+        <li class="done"><a href="../index.html"><span class="stop-label"><small>Start</small>Home</span></a></li>
+        <li class="done"><a href="trend.html"><span class="stop-label"><small>Q1</small>Trend</span></a></li>
+        <li><a href="road-users.html" aria-current="page"><span class="stop-label"><small>Q2</small>Road users</span></a></li>
+        <li><a href="age-sex.html"><span class="stop-label"><small>Q3</small>Age &amp; sex</span></a></li>
+        <li><a href="states.html"><span class="stop-label"><small>Q4</small>States</span></a></li>
+        <li><a href="first-nations.html"><span class="stop-label"><small>Q5</small>First Nations</span></a></li>
+      </ol>
     </div>
+    <div class="road-strip" aria-hidden="true"></div>
+  </header>
+
+  <main class="wrap q-main" id="road-users">
+    <div class="stat-row three">
+      <div class="stat"><span class="num">49.1%</span><span class="label">motorcyclists, pedal cyclists and pedestrians in 2021, up from 46.2%</span></div>
+      <div class="stat"><span class="num">20.7%</span><span class="label">pedal cyclists in 2021, up from 15.8%: the biggest gain</span></div>
+      <div class="stat"><span class="num">46.9%</span><span class="label">car occupants in 2021, still the largest single group</span></div>
+    </div>
+
+    <figure class="chart-card">
+      <figcaption>
+        <span class="chart-title">Share of non-fatal hospitalised road crash injuries by road user, Australia, 2011–2021 (%)</span>
+        <span class="chart-sub">Each band is a road user group's share of all cases that year. The black line is motorcyclists, pedal cyclists and pedestrians combined. Click a legend button to highlight a group. Hover a year for details, or click to pin them.</span>
+      </figcaption>
+      <div id="legend-road-users" class="legend" role="group" aria-label="Highlight a road user group"></div>
+      <div class="chart" id="chart-road-users" role="img" aria-label="Stacked area chart of road user shares from 2011 to 2021. Vulnerable road users grew from 46.2% to 49.1% of cases."><p>Loading chart…</p></div>
+      <p class="source">Source: BITRE Hospitalised Injury, September 2023 release. Car occupant = car driver, car passenger and car unknown position. Other = bus, heavy transport, pick-up truck or van occupants, and other or unknown.</p>
+    </figure>
+
+    <div class="insight">
+      <div class="takeaway">
+        <h2>What the data says</h2>
+        <p>Motorcyclists, pedal cyclists and pedestrians grew from <strong>46.2%</strong> of cases in 2011 to <strong>49.1%</strong> in 2021. Pedal cyclists grew the most, from 15.8% to 20.7%.</p>
+      </div>
+      <aside class="aside">
+        <h2>Keep in mind</h2>
+        <p>These are shares, not counts. A group's share can grow because it had more cases, or because other groups had fewer. Hover a year to see the total number of cases behind the bands.</p>
+      </aside>
+    </div>
+
+    <nav class="pager" aria-label="Question navigation">
+      <a class="prev" href="trend.html"><small>&larr; Previous stop</small><span>Q1 National trend</span></a>
+      <a class="next" href="age-sex.html"><small>Next stop &rarr;</small><span>Q3 Age and sex</span></a>
+    </nav>
   </main>
 
   <footer>
-    <p>Data: Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+    <div class="road-strip" aria-hidden="true"></div>
+    <div class="wrap footer-grid">
+      <div>
+        <a class="brand" href="../index.html">Beyond the <span>Road Toll</span></a>
+        <p>An interactive data story on hospitalised road crash injuries in Australia, 2011–2021.</p>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          <li><a href="trend.html">Trend</a></li>
+          <li><a href="road-users.html">Road users</a></li>
+          <li><a href="age-sex.html">Age &amp; sex</a></li>
+          <li><a href="states.html">States</a></li>
+          <li><a href="first-nations.html">First Nations</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Data</h3>
+        <p>Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+      </div>
+    </div>
   </footer>
 
+  <div id="tooltip" class="tooltip" role="status" aria-live="polite" hidden></div>
+
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="../js/main.js"></script>
+  <script src="../js/chart-share.js"></script>
 </body>
 </html>

@@ -1,0 +1,133 @@
+"year","road_user","road_user_group","nonfatal_cases","year_total","share_pct"
+2011,"Bus occupant","Heavy vehicle, bus or van occupant",214,34033,0.6288014574089853
+2011,"Car driver","Car occupant",10948,34033,32.168777363147534
+2011,"Car passenger","Car occupant",4853,34033,14.259689125260778
+2011,"Car unknown position","Car occupant",889,34033,2.612170540357888
+2011,"Heavy transport driver","Heavy vehicle, bus or van occupant",455,34033,1.336937678135927
+2011,"Heavy transport passenger","Heavy vehicle, bus or van occupant",52,34033,0.15279287750124879
+2011,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",55,34033,0.16160785120324392
+2011,"Motorcyclist","Vulnerable road user",7565,34033,22.228425351864367
+2011,"Other or unknown","Other or unknown",610,34033,1.7923779860723417
+2011,"Pedal cyclist","Vulnerable road user",5391,34033,15.840507742485235
+2011,"Pedestrian","Vulnerable road user",2754,34033,8.092145858431522
+2011,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",247,34033,0.7257661681309318
+2012,"Bus occupant","Heavy vehicle, bus or van occupant",217,34024,0.6377850928756171
+2012,"Car driver","Car occupant",10806,34024,31.759934164119446
+2012,"Car passenger","Car occupant",4738,34024,13.925464378086058
+2012,"Car unknown position","Car occupant",895,34024,2.63049612038561
+2012,"Heavy transport driver","Heavy vehicle, bus or van occupant",416,34024,1.2226663531624735
+2012,"Heavy transport passenger","Heavy vehicle, bus or van occupant",47,34024,0.1381377850928756
+2012,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",48,34024,0.14107688690336231
+2012,"Motorcyclist","Vulnerable road user",7728,34024,22.713378791441336
+2012,"Other or unknown","Other or unknown",563,34024,1.6547143193040206
+2012,"Pedal cyclist","Vulnerable road user",5621,34024,16.52069127674583
+2012,"Pedestrian","Vulnerable road user",2672,34024,7.853280037620502
+2012,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",273,34024,0.8023747942628733
+2013,"Bus occupant","Heavy vehicle, bus or van occupant",226,35001,0.6456958372617925
+2013,"Car driver","Car occupant",10942,35001,31.261963943887316
+2013,"Car passenger","Car occupant",4828,35001,13.793891603097055
+2013,"Car unknown position","Car occupant",818,35001,2.3370760835404703
+2013,"Heavy transport driver","Heavy vehicle, bus or van occupant",415,35001,1.1856804091311677
+2013,"Heavy transport passenger","Heavy vehicle, bus or van occupant",40,35001,0.11428244907288362
+2013,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",29,35001,0.08285477557784063
+2013,"Motorcyclist","Vulnerable road user",8018,35001,22.907916916659524
+2013,"Other or unknown","Other or unknown",536,35001,1.5313848175766407
+2013,"Pedal cyclist","Vulnerable road user",6262,35001,17.890917402359932
+2013,"Pedestrian","Vulnerable road user",2657,35001,7.591211679666294
+2013,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",230,35001,0.6571240821690809
+2014,"Bus occupant","Heavy vehicle, bus or van occupant",289,35515,0.8137406729550893
+2014,"Car driver","Car occupant",11122,35515,31.31634520625088
+2014,"Car passenger","Car occupant",4625,35515,13.022666478952555
+2014,"Car unknown position","Car occupant",728,35515,2.04983809657891
+2014,"Heavy transport driver","Heavy vehicle, bus or van occupant",377,35515,1.0615233000140785
+2014,"Heavy transport passenger","Heavy vehicle, bus or van occupant",55,35515,0.1548641419118682
+2014,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",48,35515,0.1351541602139941
+2014,"Motorcyclist","Vulnerable road user",8334,35515,23.466141067154723
+2014,"Other or unknown","Other or unknown",508,35515,1.4303815289314374
+2014,"Pedal cyclist","Vulnerable road user",6636,35515,18.685062649584683
+2014,"Pedestrian","Vulnerable road user",2554,35515,7.191327608052936
+2014,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",239,35515,0.6729550893988455
+2015,"Bus occupant","Heavy vehicle, bus or van occupant",246,37082,0.6633946389083653
+2015,"Car driver","Car occupant",12163,37082,32.80028045952214
+2015,"Car passenger","Car occupant",4958,37082,13.370368372795427
+2015,"Car unknown position","Car occupant",812,37082,2.18974165363249
+2015,"Heavy transport driver","Heavy vehicle, bus or van occupant",444,37082,1.1973464214443665
+2015,"Heavy transport passenger","Heavy vehicle, bus or van occupant",43,37082,0.11595922550024271
+2015,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",23,37082,0.06202470201175773
+2015,"Motorcyclist","Vulnerable road user",8298,37082,22.37743379537242
+2015,"Other or unknown","Other or unknown",503,37082,1.3564532657353972
+2015,"Pedal cyclist","Vulnerable road user",6716,37082,18.111212987433255
+2015,"Pedestrian","Vulnerable road user",2627,37082,7.084299660212502
+2015,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",249,37082,0.671484817431638
+2016,"Bus occupant","Heavy vehicle, bus or van occupant",283,38963,0.7263301080512281
+2016,"Car driver","Car occupant",13194,38963,33.86289556758976
+2016,"Car passenger","Car occupant",5103,38963,13.097040782280626
+2016,"Car unknown position","Car occupant",808,38963,2.073762287298206
+2016,"Heavy transport driver","Heavy vehicle, bus or van occupant",403,38963,1.0343146061648232
+2016,"Heavy transport passenger","Heavy vehicle, bus or van occupant",42,38963,0.10779457433975823
+2016,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",39,38963,0.10009496188691837
+2016,"Motorcyclist","Vulnerable road user",8526,38963,21.882298590970922
+2016,"Other or unknown","Other or unknown",620,38963,1.5912532402535737
+2016,"Pedal cyclist","Vulnerable road user",6904,38963,17.719374791468827
+2016,"Pedestrian","Vulnerable road user",2743,38963,7.040012319379925
+2016,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",298,38963,0.7648281703154274
+2017,"Bus occupant","Heavy vehicle, bus or van occupant",265,39339,0.6736317649152241
+2017,"Car driver","Car occupant",13267,39339,33.72480235898218
+2017,"Car passenger","Car occupant",5102,39339,12.969317979613107
+2017,"Car unknown position","Car occupant",777,39339,1.975139174864638
+2017,"Heavy transport driver","Heavy vehicle, bus or van occupant",447,39339,1.13627697704568
+2017,"Heavy transport passenger","Heavy vehicle, bus or van occupant",49,39339,0.12455832634281501
+2017,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",32,39339,0.08134421312183837
+2017,"Motorcyclist","Vulnerable road user",8739,39339,22.214596202242053
+2017,"Other or unknown","Other or unknown",600,39339,1.5252039960344697
+2017,"Pedal cyclist","Vulnerable road user",7076,39339,17.98723912656651
+2017,"Pedestrian","Vulnerable road user",2714,39339,6.899006075395918
+2017,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",271,39339,0.6888838048755688
+2018,"Bus occupant","Heavy vehicle, bus or van occupant",247,39590,0.6238949229603435
+2018,"Car driver","Car occupant",13595,39590,34.33947966658247
+2018,"Car passenger","Car occupant",5206,39590,13.14978529931801
+2018,"Car unknown position","Car occupant",864,39590,2.1823692851730234
+2018,"Heavy transport driver","Heavy vehicle, bus or van occupant",437,39590,1.1038140944683001
+2018,"Heavy transport passenger","Heavy vehicle, bus or van occupant",69,39590,0.17428643596867896
+2018,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",47,39590,0.1187168476888103
+2018,"Motorcyclist","Vulnerable road user",8623,39590,21.780752715332156
+2018,"Other or unknown","Other or unknown",603,39590,1.5231118969436728
+2018,"Pedal cyclist","Vulnerable road user",6959,39590,17.577671129072996
+2018,"Pedestrian","Vulnerable road user",2661,39590,6.72139429148775
+2018,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",279,39590,0.7047234150037889
+2019,"Bus occupant","Heavy vehicle, bus or van occupant",255,39866,0.639642803391361
+2019,"Car driver","Car occupant",13482,39866,33.818291275773845
+2019,"Car passenger","Car occupant",4989,39866,12.51442331811569
+2019,"Car unknown position","Car occupant",797,39866,1.9991973109918226
+2019,"Heavy transport driver","Heavy vehicle, bus or van occupant",425,39866,1.0660713389856018
+2019,"Heavy transport passenger","Heavy vehicle, bus or van occupant",52,39866,0.13043696382882658
+2019,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",47,39866,0.11789494807605477
+2019,"Motorcyclist","Vulnerable road user",8924,39866,22.384989715547082
+2019,"Other or unknown","Other or unknown",620,39866,1.5552099533437014
+2019,"Pedal cyclist","Vulnerable road user",7302,39866,18.316359805347915
+2019,"Pedestrian","Vulnerable road user",2713,39866,6.805297747453971
+2019,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",260,39866,0.6521848191441328
+2020,"Bus occupant","Heavy vehicle, bus or van occupant",173,37966,0.4556708634040984
+2020,"Car driver","Car occupant",12217,37966,32.17879155033451
+2020,"Car passenger","Car occupant",4344,37966,11.441816362008113
+2020,"Car unknown position","Car occupant",731,37966,1.9254069430543117
+2020,"Heavy transport driver","Heavy vehicle, bus or van occupant",412,37966,1.0851814781646736
+2020,"Heavy transport passenger","Heavy vehicle, bus or van occupant",48,37966,0.12642891007743773
+2020,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",40,37966,0.10535742506453143
+2020,"Motorcyclist","Vulnerable road user",8684,37966,22.87309698150977
+2020,"Other or unknown","Other or unknown",582,37966,1.532950534688932
+2020,"Pedal cyclist","Vulnerable road user",8332,37966,21.945951640941896
+2020,"Pedestrian","Vulnerable road user",2103,37966,5.539166622767739
+2020,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",300,37966,0.7901806879839857
+2021,"Bus occupant","Heavy vehicle, bus or van occupant",169,39505,0.4277939501328946
+2021,"Car driver","Car occupant",13327,39505,33.7349702569295
+2021,"Car passenger","Car occupant",4495,39505,11.37830654347551
+2021,"Car unknown position","Car occupant",717,39505,1.8149601316289077
+2021,"Heavy transport driver","Heavy vehicle, bus or van occupant",383,39505,0.9694975319579799
+2021,"Heavy transport passenger","Heavy vehicle, bus or van occupant",56,39505,0.14175420832805974
+2021,"Heavy transport unknown position","Heavy vehicle, bus or van occupant",36,39505,0.09112770535375268
+2021,"Motorcyclist","Vulnerable road user",8883,39505,22.485761296038476
+2021,"Other or unknown","Other or unknown",601,39505,1.5213264143779268
+2021,"Pedal cyclist","Vulnerable road user",8163,39505,20.663207188963423
+2021,"Pedestrian","Vulnerable road user",2334,39505,5.908112897101633
+2021,"Pick-up truck or van occupant","Heavy vehicle, bus or van occupant",341,39505,0.8631818757119353

@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Q3 Age and sex | Beyond the Road Toll</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Barlow:wght@400;500;600;700&display=swap">
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -19,24 +22,89 @@
     </div>
   </nav>
 
-  <main>
-    <section id="age-sex">
-      <p class="q-label">Question 3 of 5</p>
-      <h2>Age and sex</h2>
-      <p>Which age groups and sexes are hospitalised most, and does this differ by road user type?</p>
-      <div class="chart" id="chart-age-sex"><p>Chart coming soon</p></div>
-    </section>
-
-    <div class="pager">
-      <a class="prev" href="road-users.html">&larr; Q2 Road users</a>
-      <a class="next" href="states.html">Q4 States and territories &rarr;</a>
+  <header class="page-hero">
+    <div class="wrap page-hero-inner">
+      <span class="q-num" aria-hidden="true">03</span>
+      <p class="eyebrow">Question 3 of 5</p>
+      <h1>Age and sex</h1>
+      <p class="lead">Which age groups and sexes are hospitalised most, and does this differ by road user type?</p>
+      <ol class="journey" aria-label="Story progress">
+        <li class="done"><a href="../index.html"><span class="stop-label"><small>Start</small>Home</span></a></li>
+        <li class="done"><a href="trend.html"><span class="stop-label"><small>Q1</small>Trend</span></a></li>
+        <li class="done"><a href="road-users.html"><span class="stop-label"><small>Q2</small>Road users</span></a></li>
+        <li><a href="age-sex.html" aria-current="page"><span class="stop-label"><small>Q3</small>Age &amp; sex</span></a></li>
+        <li><a href="states.html"><span class="stop-label"><small>Q4</small>States</span></a></li>
+        <li><a href="first-nations.html"><span class="stop-label"><small>Q5</small>First Nations</span></a></li>
+      </ol>
     </div>
+    <div class="road-strip" aria-hidden="true"></div>
+  </header>
+
+  <main class="wrap q-main" id="age-sex">
+    <div class="stat-row three">
+      <div class="stat"><span class="num">65%</span><span class="label">of cases in 2021 were male: 25,788 males and 13,716 females</span></div>
+      <div class="stat"><span class="num">89%</span><span class="label">of injured motorcyclists were male, the widest gap of any group</span></div>
+      <div class="stat"><span class="num">40–64</span><span class="label">the age group with the most cases, for both sexes</span></div>
+    </div>
+
+    <figure class="chart-card">
+      <figcaption>
+        <span class="chart-title">Non-fatal hospitalised road crash injuries by age group and sex, Australia</span>
+        <span class="chart-sub">Males on the left, females on the right. Choose a year and a road user group. Hover a bar for details, or click it to pin them. Click anywhere to close.</span>
+      </figcaption>
+      <div class="controls">
+        <label>Year <select id="q3-year"></select></label>
+        <label>Road user <select id="q3-user"></select></label>
+      </div>
+      <div class="chart" id="chart-age-sex" role="img" aria-label="Population pyramid of road crash injuries by age group and sex. In 2021, males were 65% of cases, and the 40 to 64 age group had the most cases for both sexes."><p>Loading chart…</p></div>
+      <p class="source">Source: BITRE Hospitalised Injury, September 2023 release. Cases with missing age, or with sex recorded as intersex, indeterminate or missing, are left out (fewer than 10 cases a year).</p>
+    </figure>
+
+    <div class="insight">
+      <div class="takeaway">
+        <h2>What the data says</h2>
+        <p>In 2021, <strong>65% of cases were male</strong> (25,788 males and 13,716 females). The 40 to 64 age group had the most cases for both sexes. The gap is widest for motorcyclists: <strong>89% of injured motorcyclists were male</strong>.</p>
+      </div>
+      <aside class="aside">
+        <h2>Keep in mind</h2>
+        <p>These are case counts, not rates. Age groups cover different numbers of years and people, so a bigger bar does not always mean a higher risk.</p>
+      </aside>
+    </div>
+
+    <nav class="pager" aria-label="Question navigation">
+      <a class="prev" href="road-users.html"><small>&larr; Previous stop</small><span>Q2 Road users</span></a>
+      <a class="next" href="states.html"><small>Next stop &rarr;</small><span>Q4 States and territories</span></a>
+    </nav>
   </main>
 
   <footer>
-    <p>Data: Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+    <div class="road-strip" aria-hidden="true"></div>
+    <div class="wrap footer-grid">
+      <div>
+        <a class="brand" href="../index.html">Beyond the <span>Road Toll</span></a>
+        <p>An interactive data story on hospitalised road crash injuries in Australia, 2011–2021.</p>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          <li><a href="trend.html">Trend</a></li>
+          <li><a href="road-users.html">Road users</a></li>
+          <li><a href="age-sex.html">Age &amp; sex</a></li>
+          <li><a href="states.html">States</a></li>
+          <li><a href="first-nations.html">First Nations</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Data</h3>
+        <p>Bureau of Infrastructure and Transport Research Economics (BITRE), Hospitalised Injury, 2011–2021.</p>
+      </div>
+    </div>
   </footer>
 
+  <div id="tooltip" class="tooltip" role="status" aria-live="polite" hidden></div>
+
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="../js/main.js"></script>
+  <script src="../js/chart-age-sex.js"></script>
 </body>
 </html>

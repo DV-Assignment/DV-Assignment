@@ -1,0 +1,697 @@
+"state","road_user","year","cases","n_suppressed_halves","Publication_status","cases_state_total","Share_pct"
+"ACT","Bus occupant",2011,,2,"Not published",537,
+"ACT","Bus occupant",2012,,2,"Not published",601,
+"ACT","Bus occupant",2013,,2,"Not published",573,
+"ACT","Bus occupant",2014,,2,"Not published",542,
+"ACT","Bus occupant",2015,12,1,"Partly published",700,1.7142857142857144
+"ACT","Bus occupant",2016,,2,"Not published",654,
+"ACT","Bus occupant",2017,,2,"Not published",632,
+"ACT","Bus occupant",2018,,1,"Partly published",712,
+"ACT","Bus occupant",2019,,1,"Partly published",665,
+"ACT","Bus occupant",2020,,2,"Not published",629,
+"ACT","Car driver, passenger or unknown position",2011,198,0,"Published",537,36.87150837988827
+"ACT","Car driver, passenger or unknown position",2012,237,0,"Published",601,39.43427620632279
+"ACT","Car driver, passenger or unknown position",2013,212,0,"Published",573,36.99825479930192
+"ACT","Car driver, passenger or unknown position",2014,232,0,"Published",542,42.80442804428044
+"ACT","Car driver, passenger or unknown position",2015,275,0,"Published",700,39.285714285714285
+"ACT","Car driver, passenger or unknown position",2016,250,0,"Published",654,38.226299694189606
+"ACT","Car driver, passenger or unknown position",2017,250,0,"Published",632,39.55696202531646
+"ACT","Car driver, passenger or unknown position",2018,287,0,"Published",712,40.30898876404495
+"ACT","Car driver, passenger or unknown position",2019,279,0,"Published",665,41.95488721804511
+"ACT","Car driver, passenger or unknown position",2020,230,0,"Published",629,36.56597774244833
+"ACT","Car driver, passenger or unknown position",2021,234,0,"Published",740,31.62162162162162
+"ACT","Heavy transport driver, passenger or unknown position",2011,,2,"Not published",537,
+"ACT","Heavy transport driver, passenger or unknown position",2012,,2,"Not published",601,
+"ACT","Heavy transport driver, passenger or unknown position",2013,,1,"Partly published",573,
+"ACT","Heavy transport driver, passenger or unknown position",2014,,2,"Not published",542,
+"ACT","Heavy transport driver, passenger or unknown position",2015,6,1,"Partly published",700,0.8571428571428572
+"ACT","Heavy transport driver, passenger or unknown position",2016,,1,"Partly published",654,
+"ACT","Heavy transport driver, passenger or unknown position",2017,,2,"Not published",632,
+"ACT","Heavy transport driver, passenger or unknown position",2018,,2,"Not published",712,
+"ACT","Heavy transport driver, passenger or unknown position",2019,,2,"Not published",665,
+"ACT","Heavy transport driver, passenger or unknown position",2020,,1,"Partly published",629,
+"ACT","Motorcyclist",2011,144,0,"Published",537,26.81564245810056
+"ACT","Motorcyclist",2012,144,0,"Published",601,23.960066555740433
+"ACT","Motorcyclist",2013,137,0,"Published",573,23.909249563699824
+"ACT","Motorcyclist",2014,102,0,"Published",542,18.81918819188192
+"ACT","Motorcyclist",2015,145,0,"Published",700,20.714285714285715
+"ACT","Motorcyclist",2016,147,0,"Published",654,22.477064220183486
+"ACT","Motorcyclist",2017,119,0,"Published",632,18.829113924050635
+"ACT","Motorcyclist",2018,161,0,"Published",712,22.6123595505618
+"ACT","Motorcyclist",2019,136,0,"Published",665,20.451127819548873
+"ACT","Motorcyclist",2020,142,0,"Published",629,22.575516693163753
+"ACT","Motorcyclist",2021,144,0,"Published",740,19.45945945945946
+"ACT","Other or unknown",2011,,2,"Not published",537,
+"ACT","Other or unknown",2012,11,1,"Partly published",601,1.8302828618968388
+"ACT","Other or unknown",2013,5,1,"Partly published",573,0.8726003490401396
+"ACT","Other or unknown",2014,,2,"Not published",542,
+"ACT","Other or unknown",2015,,2,"Not published",700,
+"ACT","Other or unknown",2016,5,1,"Partly published",654,0.764525993883792
+"ACT","Other or unknown",2017,,2,"Not published",632,
+"ACT","Other or unknown",2018,9,1,"Partly published",712,1.2640449438202246
+"ACT","Other or unknown",2019,,2,"Not published",665,
+"ACT","Other or unknown",2020,12,0,"Published",629,1.9077901430842605
+"ACT","Other or unknown",2021,,2,"Not published",740,
+"ACT","Pedal cyclist",2011,149,0,"Published",537,27.746741154562383
+"ACT","Pedal cyclist",2012,173,0,"Published",601,28.785357737104828
+"ACT","Pedal cyclist",2013,174,0,"Published",573,30.36649214659686
+"ACT","Pedal cyclist",2014,179,0,"Published",542,33.025830258302584
+"ACT","Pedal cyclist",2015,222,0,"Published",700,31.71428571428571
+"ACT","Pedal cyclist",2016,215,0,"Published",654,32.87461773700306
+"ACT","Pedal cyclist",2017,211,0,"Published",632,33.38607594936709
+"ACT","Pedal cyclist",2018,217,0,"Published",712,30.47752808988764
+"ACT","Pedal cyclist",2019,218,0,"Published",665,32.78195488721805
+"ACT","Pedal cyclist",2020,223,0,"Published",629,35.453100158982515
+"ACT","Pedal cyclist",2021,333,0,"Published",740,45
+"ACT","Pedestrian",2011,30,0,"Published",537,5.58659217877095
+"ACT","Pedestrian",2012,27,0,"Published",601,4.492512479201332
+"ACT","Pedestrian",2013,33,0,"Published",573,5.7591623036649215
+"ACT","Pedestrian",2014,20,0,"Published",542,3.6900369003690034
+"ACT","Pedestrian",2015,27,0,"Published",700,3.8571428571428568
+"ACT","Pedestrian",2016,28,0,"Published",654,4.281345565749235
+"ACT","Pedestrian",2017,34,0,"Published",632,5.379746835443038
+"ACT","Pedestrian",2018,24,0,"Published",712,3.3707865168539324
+"ACT","Pedestrian",2019,22,0,"Published",665,3.308270676691729
+"ACT","Pedestrian",2020,14,0,"Published",629,2.2257551669316373
+"ACT","Pedestrian",2021,22,0,"Published",740,2.9729729729729732
+"ACT","Pick-up truck or van occupant",2011,,1,"Partly published",537,
+"ACT","Pick-up truck or van occupant",2013,,1,"Partly published",573,
+"ACT","Pick-up truck or van occupant",2016,,2,"Not published",654,
+"ACT","Pick-up truck or van occupant",2017,,1,"Partly published",632,
+"ACT","Pick-up truck or van occupant",2018,,2,"Not published",712,
+"ACT","Pick-up truck or van occupant",2020,,1,"Partly published",629,
+"ACT","Pick-up truck or van occupant",2021,,2,"Not published",740,
+"NSW","Bus occupant",2011,90,0,"Published",10618,0.8476172537200979
+"NSW","Bus occupant",2012,91,0,"Published",11121,0.8182717381530438
+"NSW","Bus occupant",2013,82,0,"Published",11421,0.717975658874004
+"NSW","Bus occupant",2014,107,0,"Published",11313,0.9458145496331654
+"NSW","Bus occupant",2015,96,0,"Published",11084,0.866113316492241
+"NSW","Bus occupant",2016,114,0,"Published",11474,0.9935506362210215
+"NSW","Bus occupant",2017,109,0,"Published",11016,0.9894698620188815
+"NSW","Bus occupant",2018,92,0,"Published",9794,0.9393506228303042
+"NSW","Bus occupant",2019,97,0,"Published",9942,0.9756588211627439
+"NSW","Bus occupant",2020,64,0,"Published",9274,0.6901013586370498
+"NSW","Bus occupant",2021,50,0,"Published",9003,0.5553704320781961
+"NSW","Car driver, passenger or unknown position",2011,5285,0,"Published",10618,49.77396873234131
+"NSW","Car driver, passenger or unknown position",2012,5423,0,"Published",11121,48.76360039564787
+"NSW","Car driver, passenger or unknown position",2013,5585,0,"Published",11421,48.90114700989405
+"NSW","Car driver, passenger or unknown position",2014,5319,0,"Published",11313,47.01670644391408
+"NSW","Car driver, passenger or unknown position",2015,5428,0,"Published",11084,48.97149043666546
+"NSW","Car driver, passenger or unknown position",2016,5639,0,"Published",11474,49.14589506710825
+"NSW","Car driver, passenger or unknown position",2017,5295,0,"Published",11016,48.066448801742915
+"NSW","Car driver, passenger or unknown position",2018,4469,0,"Published",9794,45.62997753726771
+"NSW","Car driver, passenger or unknown position",2019,4397,0,"Published",9942,44.22651377992356
+"NSW","Car driver, passenger or unknown position",2020,3924,0,"Published",9274,42.31183955143412
+"NSW","Car driver, passenger or unknown position",2021,3669,0,"Published",9003,40.75308230589803
+"NSW","Heavy transport driver, passenger or unknown position",2011,161,0,"Published",10618,1.5162930872103975
+"NSW","Heavy transport driver, passenger or unknown position",2012,142,0,"Published",11121,1.2768635914036508
+"NSW","Heavy transport driver, passenger or unknown position",2013,127,0,"Published",11421,1.1119866911829086
+"NSW","Heavy transport driver, passenger or unknown position",2014,145,0,"Published",11313,1.281711305577654
+"NSW","Heavy transport driver, passenger or unknown position",2015,163,0,"Published",11084,1.4705882352941175
+"NSW","Heavy transport driver, passenger or unknown position",2016,133,0,"Published",11474,1.159142408924525
+"NSW","Heavy transport driver, passenger or unknown position",2017,147,0,"Published",11016,1.3344226579520697
+"NSW","Heavy transport driver, passenger or unknown position",2018,151,0,"Published",9794,1.5417602613845212
+"NSW","Heavy transport driver, passenger or unknown position",2019,127,0,"Published",9942,1.2774089720378194
+"NSW","Heavy transport driver, passenger or unknown position",2020,125,0,"Published",9274,1.3478542160879878
+"NSW","Heavy transport driver, passenger or unknown position",2021,103,0,"Published",9003,1.1440630900810842
+"NSW","Motorcyclist",2011,2393,0,"Published",10618,22.537200979468828
+"NSW","Motorcyclist",2012,2626,0,"Published",11121,23.61298444384498
+"NSW","Motorcyclist",2013,2570,0,"Published",11421,22.502407845197446
+"NSW","Motorcyclist",2014,2636,0,"Published",11313,23.300627596570315
+"NSW","Motorcyclist",2015,2459,0,"Published",11084,22.185131721400218
+"NSW","Motorcyclist",2016,2648,0,"Published",11474,23.07826390099355
+"NSW","Motorcyclist",2017,2526,0,"Published",11016,22.93028322440087
+"NSW","Motorcyclist",2018,2347,0,"Published",9794,23.96365121502961
+"NSW","Motorcyclist",2019,2565,0,"Published",9942,25.79963789981895
+"NSW","Motorcyclist",2020,2335,0,"Published",9274,25.177916756523615
+"NSW","Motorcyclist",2021,2253,0,"Published",9003,25.02499166944352
+"NSW","Other or unknown",2011,172,0,"Published",10618,1.6198907515539651
+"NSW","Other or unknown",2012,133,0,"Published",11121,1.1959356173006026
+"NSW","Other or unknown",2013,162,0,"Published",11421,1.4184397163120568
+"NSW","Other or unknown",2014,131,0,"Published",11313,1.157959869177053
+"NSW","Other or unknown",2015,129,0,"Published",11084,1.163839769036449
+"NSW","Other or unknown",2016,134,0,"Published",11474,1.167857765382604
+"NSW","Other or unknown",2017,137,0,"Published",11016,1.2436456063907044
+"NSW","Other or unknown",2018,163,0,"Published",9794,1.664284255666735
+"NSW","Other or unknown",2019,168,0,"Published",9942,1.6898008449004225
+"NSW","Other or unknown",2020,138,0,"Published",9274,1.4880310545611386
+"NSW","Other or unknown",2021,164,0,"Published",9003,1.8216150172164836
+"NSW","Pedal cyclist",2011,1487,0,"Published",10618,14.004520625353173
+"NSW","Pedal cyclist",2012,1667,0,"Published",11121,14.989659203309055
+"NSW","Pedal cyclist",2013,1835,0,"Published",11421,16.066894317485332
+"NSW","Pedal cyclist",2014,1902,0,"Published",11313,16.812516573853088
+"NSW","Pedal cyclist",2015,1793,0,"Published",11084,16.176470588235293
+"NSW","Pedal cyclist",2016,1775,0,"Published",11474,15.469757713090464
+"NSW","Pedal cyclist",2017,1791,0,"Published",11016,16.258169934640524
+"NSW","Pedal cyclist",2018,1681,0,"Published",9794,17.163569532366754
+"NSW","Pedal cyclist",2019,1678,0,"Published",9942,16.87789177227922
+"NSW","Pedal cyclist",2020,1950,0,"Published",9274,21.02652577097261
+"NSW","Pedal cyclist",2021,2042,0,"Published",9003,22.681328446073532
+"NSW","Pedestrian",2011,967,0,"Published",10618,9.107176492748163
+"NSW","Pedestrian",2012,955,0,"Published",11121,8.58735725204568
+"NSW","Pedestrian",2013,993,0,"Published",11421,8.69451011294983
+"NSW","Pedestrian",2014,1000,0,"Published",11313,8.839388314328648
+"NSW","Pedestrian",2015,951,0,"Published",11084,8.579935041501264
+"NSW","Pedestrian",2016,964,0,"Published",11474,8.401603625588287
+"NSW","Pedestrian",2017,929,0,"Published",11016,8.433188090050834
+"NSW","Pedestrian",2018,823,0,"Published",9794,8.403103941188483
+"NSW","Pedestrian",2019,858,0,"Published",9942,8.630054315027158
+"NSW","Pedestrian",2020,660,0,"Published",9274,7.116670260944575
+"NSW","Pedestrian",2021,649,0,"Published",9003,7.208708208374986
+"NSW","Pick-up truck or van occupant",2011,63,0,"Published",10618,0.5933320776040686
+"NSW","Pick-up truck or van occupant",2012,84,0,"Published",11121,0.7553277582951173
+"NSW","Pick-up truck or van occupant",2013,67,0,"Published",11421,0.5866386481043692
+"NSW","Pick-up truck or van occupant",2014,73,0,"Published",11313,0.6452753469459913
+"NSW","Pick-up truck or van occupant",2015,65,0,"Published",11084,0.5864308913749549
+"NSW","Pick-up truck or van occupant",2016,67,0,"Published",11474,0.583928882691302
+"NSW","Pick-up truck or van occupant",2017,82,0,"Published",11016,0.7443718228031954
+"NSW","Pick-up truck or van occupant",2018,68,0,"Published",9794,0.6943026342658771
+"NSW","Pick-up truck or van occupant",2019,52,0,"Published",9942,0.5230335948501308
+"NSW","Pick-up truck or van occupant",2020,78,0,"Published",9274,0.8410610308389044
+"NSW","Pick-up truck or van occupant",2021,73,0,"Published",9003,0.8108408308341664
+"NT","Bus occupant",2011,,1,"Partly published",456,
+"NT","Bus occupant",2012,,2,"Not published",496,
+"NT","Bus occupant",2013,,2,"Not published",561,
+"NT","Bus occupant",2014,7,0,"Published",575,1.2173913043478262
+"NT","Bus occupant",2015,,2,"Not published",691,
+"NT","Bus occupant",2016,5,1,"Partly published",709,0.7052186177715092
+"NT","Bus occupant",2018,,2,"Not published",832,
+"NT","Bus occupant",2019,,2,"Not published",656,
+"NT","Bus occupant",2020,,1,"Partly published",787,
+"NT","Bus occupant",2021,5,1,"Partly published",710,0.7042253521126761
+"NT","Car driver, passenger or unknown position",2011,209,0,"Published",456,45.83333333333333
+"NT","Car driver, passenger or unknown position",2012,247,0,"Published",496,49.79838709677419
+"NT","Car driver, passenger or unknown position",2013,296,0,"Published",561,52.76292335115864
+"NT","Car driver, passenger or unknown position",2014,276,0,"Published",575,48
+"NT","Car driver, passenger or unknown position",2015,335,0,"Published",691,48.480463096960925
+"NT","Car driver, passenger or unknown position",2016,374,0,"Published",709,52.750352609308884
+"NT","Car driver, passenger or unknown position",2017,366,0,"Published",703,52.06258890469416
+"NT","Car driver, passenger or unknown position",2018,488,0,"Published",832,58.65384615384615
+"NT","Car driver, passenger or unknown position",2019,347,0,"Published",656,52.89634146341463
+"NT","Car driver, passenger or unknown position",2020,385,0,"Published",787,48.91994917407878
+"NT","Car driver, passenger or unknown position",2021,362,0,"Published",710,50.985915492957744
+"NT","Heavy transport driver, passenger or unknown position",2012,7,1,"Partly published",496,1.411290322580645
+"NT","Heavy transport driver, passenger or unknown position",2013,,2,"Not published",561,
+"NT","Heavy transport driver, passenger or unknown position",2014,5,1,"Partly published",575,0.8695652173913043
+"NT","Heavy transport driver, passenger or unknown position",2015,,2,"Not published",691,
+"NT","Heavy transport driver, passenger or unknown position",2016,5,1,"Partly published",709,0.7052186177715092
+"NT","Heavy transport driver, passenger or unknown position",2017,7,1,"Partly published",703,0.995732574679943
+"NT","Heavy transport driver, passenger or unknown position",2018,,2,"Not published",832,
+"NT","Heavy transport driver, passenger or unknown position",2019,,2,"Not published",656,
+"NT","Heavy transport driver, passenger or unknown position",2020,6,1,"Partly published",787,0.7623888182973316
+"NT","Heavy transport driver, passenger or unknown position",2021,,2,"Not published",710,
+"NT","Motorcyclist",2011,106,0,"Published",456,23.24561403508772
+"NT","Motorcyclist",2012,118,0,"Published",496,23.790322580645164
+"NT","Motorcyclist",2013,121,0,"Published",561,21.568627450980394
+"NT","Motorcyclist",2014,150,0,"Published",575,26.08695652173913
+"NT","Motorcyclist",2015,169,0,"Published",691,24.457308248914618
+"NT","Motorcyclist",2016,151,0,"Published",709,21.297602256699577
+"NT","Motorcyclist",2017,149,0,"Published",703,21.19487908961593
+"NT","Motorcyclist",2018,169,0,"Published",832,20.3125
+"NT","Motorcyclist",2019,153,0,"Published",656,23.323170731707318
+"NT","Motorcyclist",2020,195,0,"Published",787,24.777636594663278
+"NT","Motorcyclist",2021,157,0,"Published",710,22.112676056338028
+"NT","Other or unknown",2011,24,0,"Published",456,5.263157894736842
+"NT","Other or unknown",2012,13,0,"Published",496,2.620967741935484
+"NT","Other or unknown",2013,,2,"Not published",561,
+"NT","Other or unknown",2014,,2,"Not published",575,
+"NT","Other or unknown",2015,,2,"Not published",691,
+"NT","Other or unknown",2016,6,1,"Partly published",709,0.846262341325811
+"NT","Other or unknown",2017,9,1,"Partly published",703,1.2802275960170697
+"NT","Other or unknown",2018,7,1,"Partly published",832,0.8413461538461539
+"NT","Other or unknown",2019,17,0,"Published",656,2.591463414634146
+"NT","Other or unknown",2020,23,0,"Published",787,2.9224904701397714
+"NT","Other or unknown",2021,8,1,"Partly published",710,1.1267605633802817
+"NT","Pedal cyclist",2011,62,0,"Published",456,13.596491228070176
+"NT","Pedal cyclist",2012,45,0,"Published",496,9.07258064516129
+"NT","Pedal cyclist",2013,70,0,"Published",561,12.4777183600713
+"NT","Pedal cyclist",2014,65,0,"Published",575,11.304347826086957
+"NT","Pedal cyclist",2015,81,0,"Published",691,11.722141823444284
+"NT","Pedal cyclist",2016,70,0,"Published",709,9.873060648801129
+"NT","Pedal cyclist",2017,74,0,"Published",703,10.526315789473683
+"NT","Pedal cyclist",2018,71,0,"Published",832,8.533653846153847
+"NT","Pedal cyclist",2019,84,0,"Published",656,12.804878048780488
+"NT","Pedal cyclist",2020,108,0,"Published",787,13.722998729351971
+"NT","Pedal cyclist",2021,92,0,"Published",710,12.957746478873238
+"NT","Pedestrian",2011,44,0,"Published",456,9.649122807017543
+"NT","Pedestrian",2012,51,0,"Published",496,10.28225806451613
+"NT","Pedestrian",2013,42,0,"Published",561,7.4866310160427805
+"NT","Pedestrian",2014,59,0,"Published",575,10.26086956521739
+"NT","Pedestrian",2015,71,0,"Published",691,10.274963820549928
+"NT","Pedestrian",2016,59,0,"Published",709,8.321579689703809
+"NT","Pedestrian",2017,79,0,"Published",703,11.2375533428165
+"NT","Pedestrian",2018,73,0,"Published",832,8.774038461538462
+"NT","Pedestrian",2019,38,0,"Published",656,5.7926829268292686
+"NT","Pedestrian",2020,56,0,"Published",787,7.115628970775095
+"NT","Pedestrian",2021,58,0,"Published",710,8.169014084507042
+"NT","Pick-up truck or van occupant",2011,7,1,"Partly published",456,1.5350877192982455
+"NT","Pick-up truck or van occupant",2012,,2,"Not published",496,
+"NT","Pick-up truck or van occupant",2013,6,1,"Partly published",561,1.06951871657754
+"NT","Pick-up truck or van occupant",2014,,2,"Not published",575,
+"NT","Pick-up truck or van occupant",2015,19,0,"Published",691,2.7496382054992763
+"NT","Pick-up truck or van occupant",2016,12,1,"Partly published",709,1.692524682651622
+"NT","Pick-up truck or van occupant",2017,,2,"Not published",703,
+"NT","Pick-up truck or van occupant",2018,7,1,"Partly published",832,0.8413461538461539
+"NT","Pick-up truck or van occupant",2019,7,1,"Partly published",656,1.0670731707317074
+"NT","Pick-up truck or van occupant",2020,,2,"Not published",787,
+"NT","Pick-up truck or van occupant",2021,9,1,"Partly published",710,1.267605633802817
+"Qld","Bus occupant",2011,29,0,"Published",6322,0.45871559633027525
+"Qld","Bus occupant",2012,33,0,"Published",6813,0.48436811977102595
+"Qld","Bus occupant",2013,37,0,"Published",7821,0.4730852832118655
+"Qld","Bus occupant",2014,49,0,"Published",7725,0.6343042071197411
+"Qld","Bus occupant",2015,40,0,"Published",8306,0.48157958102576454
+"Qld","Bus occupant",2016,41,0,"Published",8702,0.4711560560790623
+"Qld","Bus occupant",2017,28,0,"Published",9134,0.30654696737464415
+"Qld","Bus occupant",2018,37,0,"Published",9381,0.3944142415520734
+"Qld","Bus occupant",2019,39,0,"Published",9515,0.4098791382028376
+"Qld","Bus occupant",2020,22,0,"Published",9801,0.22446689113355783
+"Qld","Bus occupant",2021,38,0,"Published",10447,0.36374078682875466
+"Qld","Car driver, passenger or unknown position",2011,2768,0,"Published",6322,43.78361278076558
+"Qld","Car driver, passenger or unknown position",2012,3199,0,"Published",6813,46.95435197416703
+"Qld","Car driver, passenger or unknown position",2013,3658,0,"Published",7821,46.771512594297405
+"Qld","Car driver, passenger or unknown position",2014,3580,0,"Published",7725,46.34304207119741
+"Qld","Car driver, passenger or unknown position",2015,4013,0,"Published",8306,48.31447146640983
+"Qld","Car driver, passenger or unknown position",2016,4260,0,"Published",8702,48.95426338772696
+"Qld","Car driver, passenger or unknown position",2017,4559,0,"Published",9134,49.912415152178674
+"Qld","Car driver, passenger or unknown position",2018,4823,0,"Published",9381,51.41242937853108
+"Qld","Car driver, passenger or unknown position",2019,4829,0,"Published",9515,50.7514450867052
+"Qld","Car driver, passenger or unknown position",2020,4836,0,"Published",9801,49.341903887358434
+"Qld","Car driver, passenger or unknown position",2021,5471,0,"Published",10447,52.36910117737149
+"Qld","Heavy transport driver, passenger or unknown position",2011,162,0,"Published",6322,2.56248022777602
+"Qld","Heavy transport driver, passenger or unknown position",2012,146,0,"Published",6813,2.142961984441509
+"Qld","Heavy transport driver, passenger or unknown position",2013,165,0,"Published",7821,2.109704641350211
+"Qld","Heavy transport driver, passenger or unknown position",2014,146,0,"Published",7725,1.889967637540453
+"Qld","Heavy transport driver, passenger or unknown position",2015,141,0,"Published",8306,1.6975680231158201
+"Qld","Heavy transport driver, passenger or unknown position",2016,142,0,"Published",8702,1.6318087795908987
+"Qld","Heavy transport driver, passenger or unknown position",2017,170,0,"Published",9134,1.861178016203197
+"Qld","Heavy transport driver, passenger or unknown position",2018,163,0,"Published",9381,1.7375546317023771
+"Qld","Heavy transport driver, passenger or unknown position",2019,165,0,"Published",9515,1.7341040462427744
+"Qld","Heavy transport driver, passenger or unknown position",2020,171,0,"Published",9801,1.7447199265381086
+"Qld","Heavy transport driver, passenger or unknown position",2021,144,0,"Published",10447,1.3783861395615966
+"Qld","Motorcyclist",2011,1781,0,"Published",6322,28.17146472635242
+"Qld","Motorcyclist",2012,1776,0,"Published",6813,26.067811536767945
+"Qld","Motorcyclist",2013,2047,0,"Published",7821,26.173123641478075
+"Qld","Motorcyclist",2014,2070,0,"Published",7725,26.796116504854368
+"Qld","Motorcyclist",2015,2144,0,"Published",8306,25.812665542980977
+"Qld","Motorcyclist",2016,2159,0,"Published",8702,24.810388416455986
+"Qld","Motorcyclist",2017,2208,0,"Published",9134,24.17341799868623
+"Qld","Motorcyclist",2018,2320,0,"Published",9381,24.730838929751624
+"Qld","Motorcyclist",2019,2322,0,"Published",9515,24.40357330530741
+"Qld","Motorcyclist",2020,2447,0,"Published",9801,24.966840118355268
+"Qld","Motorcyclist",2021,2598,0,"Published",10447,24.868383267923804
+"Qld","Other or unknown",2011,143,0,"Published",6322,2.261942423283771
+"Qld","Other or unknown",2012,138,0,"Published",6813,2.025539409951563
+"Qld","Other or unknown",2013,140,0,"Published",7821,1.7900524229638153
+"Qld","Other or unknown",2014,134,0,"Published",7725,1.7346278317152102
+"Qld","Other or unknown",2015,113,0,"Published",8306,1.3604623163977847
+"Qld","Other or unknown",2016,146,0,"Published",8702,1.677775224086417
+"Qld","Other or unknown",2017,135,0,"Published",9134,1.4779943069848918
+"Qld","Other or unknown",2018,131,0,"Published",9381,1.396439611981665
+"Qld","Other or unknown",2019,120,0,"Published",9515,1.2611665790856543
+"Qld","Other or unknown",2020,142,0,"Published",9801,1.4488317518620548
+"Qld","Other or unknown",2021,152,0,"Published",10447,1.4549631473150186
+"Qld","Pedal cyclist",2011,955,0,"Published",6322,15.105979120531476
+"Qld","Pedal cyclist",2012,1054,0,"Published",6813,15.470424189050345
+"Qld","Pedal cyclist",2013,1321,0,"Published",7821,16.890423219537144
+"Qld","Pedal cyclist",2014,1333,0,"Published",7725,17.25566343042071
+"Qld","Pedal cyclist",2015,1378,0,"Published",8306,16.590416566337588
+"Qld","Pedal cyclist",2016,1442,0,"Published",8702,16.570903240634337
+"Qld","Pedal cyclist",2017,1542,0,"Published",9134,16.88197941756076
+"Qld","Pedal cyclist",2018,1408,0,"Published",9381,15.009060867711332
+"Qld","Pedal cyclist",2019,1531,0,"Published",9515,16.09038360483447
+"Qld","Pedal cyclist",2020,1684,0,"Published",9801,17.181920212223243
+"Qld","Pedal cyclist",2021,1504,0,"Published",10447,14.396477457643343
+"Qld","Pedestrian",2011,443,0,"Published",6322,7.007276178424549
+"Qld","Pedestrian",2012,416,0,"Published",6813,6.105973873477176
+"Qld","Pedestrian",2013,400,0,"Published",7821,5.11443549418233
+"Qld","Pedestrian",2014,372,0,"Published",7725,4.815533980582525
+"Qld","Pedestrian",2015,427,0,"Published",8306,5.140862027450036
+"Qld","Pedestrian",2016,455,0,"Published",8702,5.228683061365203
+"Qld","Pedestrian",2017,439,0,"Published",9134,4.806218524195314
+"Qld","Pedestrian",2018,430,0,"Published",9381,4.583733077497069
+"Qld","Pedestrian",2019,444,0,"Published",9515,4.666316342616921
+"Qld","Pedestrian",2020,414,0,"Published",9801,4.224058769513315
+"Qld","Pedestrian",2021,448,0,"Published",10447,4.288312434191634
+"Qld","Pick-up truck or van occupant",2011,41,0,"Published",6322,0.6485289465359064
+"Qld","Pick-up truck or van occupant",2012,51,0,"Published",6813,0.7485689123734038
+"Qld","Pick-up truck or van occupant",2013,53,0,"Published",7821,0.6776627029791588
+"Qld","Pick-up truck or van occupant",2014,41,0,"Published",7725,0.5307443365695792
+"Qld","Pick-up truck or van occupant",2015,50,0,"Published",8306,0.6019744762822056
+"Qld","Pick-up truck or van occupant",2016,57,0,"Published",8702,0.6550218340611353
+"Qld","Pick-up truck or van occupant",2017,53,0,"Published",9134,0.5802496168162908
+"Qld","Pick-up truck or van occupant",2018,69,0,"Published",9381,0.7355292612727854
+"Qld","Pick-up truck or van occupant",2019,65,0,"Published",9515,0.6831318970047293
+"Qld","Pick-up truck or van occupant",2020,85,0,"Published",9801,0.8672584430160187
+"Qld","Pick-up truck or van occupant",2021,92,0,"Published",10447,0.8806355891643534
+"SA","Bus occupant",2011,14,1,"Partly published",2359,0.5934718100890208
+"SA","Bus occupant",2012,8,1,"Partly published",2311,0.34617048896581565
+"SA","Bus occupant",2013,16,0,"Published",2221,0.7203962179198559
+"SA","Bus occupant",2014,8,1,"Partly published",2381,0.33599328013439733
+"SA","Bus occupant",2015,6,1,"Partly published",2467,0.24321037697608433
+"SA","Bus occupant",2016,14,0,"Published",2654,0.5275056518462697
+"SA","Bus occupant",2017,15,0,"Published",2394,0.6265664160401002
+"SA","Bus occupant",2018,9,1,"Partly published",2489,0.3615910004017678
+"SA","Bus occupant",2019,14,0,"Published",2457,0.5698005698005698
+"SA","Bus occupant",2020,23,0,"Published",2503,0.9188973232121453
+"SA","Bus occupant",2021,14,0,"Published",2632,0.5319148936170213
+"SA","Car driver, passenger or unknown position",2011,1255,0,"Published",2359,53.20050869012294
+"SA","Car driver, passenger or unknown position",2012,1133,0,"Published",2311,49.02639549978364
+"SA","Car driver, passenger or unknown position",2013,1106,0,"Published",2221,49.797388563710044
+"SA","Car driver, passenger or unknown position",2014,1066,0,"Published",2381,44.771104577908446
+"SA","Car driver, passenger or unknown position",2015,1193,0,"Published",2467,48.358329955411435
+"SA","Car driver, passenger or unknown position",2016,1292,0,"Published",2654,48.68123587038433
+"SA","Car driver, passenger or unknown position",2017,1151,0,"Published",2394,48.07852965747703
+"SA","Car driver, passenger or unknown position",2018,1190,0,"Published",2489,47.81036560867818
+"SA","Car driver, passenger or unknown position",2019,1075,0,"Published",2457,43.75254375254375
+"SA","Car driver, passenger or unknown position",2020,1089,0,"Published",2503,43.507790651218535
+"SA","Car driver, passenger or unknown position",2021,1231,0,"Published",2632,46.77051671732523
+"SA","Heavy transport driver, passenger or unknown position",2011,28,0,"Published",2359,1.1869436201780417
+"SA","Heavy transport driver, passenger or unknown position",2012,31,0,"Published",2311,1.3414106447425358
+"SA","Heavy transport driver, passenger or unknown position",2013,25,0,"Published",2221,1.125619090499775
+"SA","Heavy transport driver, passenger or unknown position",2014,35,0,"Published",2381,1.4699706005879882
+"SA","Heavy transport driver, passenger or unknown position",2015,17,1,"Partly published",2467,0.6890960680989056
+"SA","Heavy transport driver, passenger or unknown position",2016,39,0,"Published",2654,1.46948003014318
+"SA","Heavy transport driver, passenger or unknown position",2017,31,0,"Published",2394,1.2949039264828737
+"SA","Heavy transport driver, passenger or unknown position",2018,20,0,"Published",2489,0.8035355564483728
+"SA","Heavy transport driver, passenger or unknown position",2019,44,0,"Published",2457,1.7908017908017908
+"SA","Heavy transport driver, passenger or unknown position",2020,29,0,"Published",2503,1.1586096683979226
+"SA","Heavy transport driver, passenger or unknown position",2021,26,0,"Published",2632,0.9878419452887538
+"SA","Motorcyclist",2011,460,0,"Published",2359,19.49978804578211
+"SA","Motorcyclist",2012,451,0,"Published",2311,19.51536131544786
+"SA","Motorcyclist",2013,455,0,"Published",2221,20.4862674470959
+"SA","Motorcyclist",2014,557,0,"Published",2381,23.393532129357414
+"SA","Motorcyclist",2015,549,0,"Published",2467,22.253749493311716
+"SA","Motorcyclist",2016,546,0,"Published",2654,20.57272042200452
+"SA","Motorcyclist",2017,531,0,"Published",2394,22.18045112781955
+"SA","Motorcyclist",2018,559,0,"Published",2489,22.45881880273202
+"SA","Motorcyclist",2019,562,0,"Published",2457,22.873422873422875
+"SA","Motorcyclist",2020,583,0,"Published",2503,23.29204954055134
+"SA","Motorcyclist",2021,556,0,"Published",2632,21.12462006079027
+"SA","Other or unknown",2011,,2,"Not published",2359,
+"SA","Other or unknown",2012,61,0,"Published",2311,2.6395499783643444
+"SA","Other or unknown",2013,27,0,"Published",2221,1.2156686177397569
+"SA","Other or unknown",2014,16,1,"Partly published",2381,0.6719865602687947
+"SA","Other or unknown",2015,32,0,"Published",2467,1.2971220105391164
+"SA","Other or unknown",2016,46,0,"Published",2654,1.7332328560663148
+"SA","Other or unknown",2017,55,0,"Published",2394,2.297410192147034
+"SA","Other or unknown",2018,51,0,"Published",2489,2.0490156689433507
+"SA","Other or unknown",2019,23,1,"Partly published",2457,0.9361009361009361
+"SA","Other or unknown",2020,32,0,"Published",2503,1.278465840990811
+"SA","Other or unknown",2021,40,0,"Published",2632,1.5197568389057752
+"SA","Pedal cyclist",2011,379,0,"Published",2359,16.066129715981347
+"SA","Pedal cyclist",2012,401,0,"Published",2311,17.35179575941151
+"SA","Pedal cyclist",2013,400,0,"Published",2221,18.0099054479964
+"SA","Pedal cyclist",2014,494,0,"Published",2381,20.747585048299033
+"SA","Pedal cyclist",2015,517,0,"Published",2467,20.9566274827726
+"SA","Pedal cyclist",2016,527,0,"Published",2654,19.85681989449887
+"SA","Pedal cyclist",2017,469,0,"Published",2394,19.5906432748538
+"SA","Pedal cyclist",2018,496,0,"Published",2489,19.927681799919647
+"SA","Pedal cyclist",2019,526,0,"Published",2457,21.408221408221408
+"SA","Pedal cyclist",2020,593,0,"Published",2503,23.691570115860966
+"SA","Pedal cyclist",2021,577,0,"Published",2632,21.922492401215806
+"SA","Pedestrian",2011,176,0,"Published",2359,7.460788469690546
+"SA","Pedestrian",2012,196,0,"Published",2311,8.481176979662484
+"SA","Pedestrian",2013,172,0,"Published",2221,7.744259342638451
+"SA","Pedestrian",2014,162,0,"Published",2381,6.803863922721545
+"SA","Pedestrian",2015,121,0,"Published",2467,4.904742602351034
+"SA","Pedestrian",2016,168,0,"Published",2654,6.330067822155237
+"SA","Pedestrian",2017,127,0,"Published",2394,5.3049289891395155
+"SA","Pedestrian",2018,148,0,"Published",2489,5.946163117717959
+"SA","Pedestrian",2019,167,0,"Published",2457,6.796906796906797
+"SA","Pedestrian",2020,131,0,"Published",2503,5.233719536556133
+"SA","Pedestrian",2021,172,0,"Published",2632,6.5349544072948325
+"SA","Pick-up truck or van occupant",2011,11,1,"Partly published",2359,0.4662992793556591
+"SA","Pick-up truck or van occupant",2012,10,1,"Partly published",2311,0.4327131112072695
+"SA","Pick-up truck or van occupant",2013,20,0,"Published",2221,0.9004952723998199
+"SA","Pick-up truck or van occupant",2014,26,0,"Published",2381,1.0919781604367913
+"SA","Pick-up truck or van occupant",2015,12,0,"Published",2467,0.48642075395216866
+"SA","Pick-up truck or van occupant",2016,22,0,"Published",2654,0.8289374529012812
+"SA","Pick-up truck or van occupant",2017,15,0,"Published",2394,0.6265664160401002
+"SA","Pick-up truck or van occupant",2018,8,1,"Partly published",2489,0.32141422257934915
+"SA","Pick-up truck or van occupant",2019,9,1,"Partly published",2457,0.3663003663003663
+"SA","Pick-up truck or van occupant",2020,23,0,"Published",2503,0.9188973232121453
+"SA","Pick-up truck or van occupant",2021,16,0,"Published",2632,0.60790273556231
+"Tas","Bus occupant",2011,,1,"Partly published",493,
+"Tas","Bus occupant",2012,,1,"Partly published",536,
+"Tas","Bus occupant",2013,,1,"Partly published",570,
+"Tas","Bus occupant",2014,,2,"Not published",646,
+"Tas","Bus occupant",2015,,1,"Partly published",677,
+"Tas","Bus occupant",2016,,2,"Not published",657,
+"Tas","Bus occupant",2017,,2,"Not published",659,
+"Tas","Bus occupant",2018,,2,"Not published",781,
+"Tas","Bus occupant",2019,,2,"Not published",708,
+"Tas","Bus occupant",2020,,2,"Not published",778,
+"Tas","Bus occupant",2021,,1,"Partly published",805,
+"Tas","Car driver, passenger or unknown position",2011,225,0,"Published",493,45.63894523326572
+"Tas","Car driver, passenger or unknown position",2012,245,0,"Published",536,45.7089552238806
+"Tas","Car driver, passenger or unknown position",2013,265,0,"Published",570,46.49122807017544
+"Tas","Car driver, passenger or unknown position",2014,261,0,"Published",646,40.40247678018576
+"Tas","Car driver, passenger or unknown position",2015,325,0,"Published",677,48.005908419497786
+"Tas","Car driver, passenger or unknown position",2016,310,0,"Published",657,47.1841704718417
+"Tas","Car driver, passenger or unknown position",2017,310,0,"Published",659,47.040971168437025
+"Tas","Car driver, passenger or unknown position",2018,404,0,"Published",781,51.72855313700384
+"Tas","Car driver, passenger or unknown position",2019,344,0,"Published",708,48.58757062146893
+"Tas","Car driver, passenger or unknown position",2020,378,0,"Published",778,48.58611825192802
+"Tas","Car driver, passenger or unknown position",2021,399,0,"Published",805,49.56521739130435
+"Tas","Heavy transport driver, passenger or unknown position",2011,,2,"Not published",493,
+"Tas","Heavy transport driver, passenger or unknown position",2012,,2,"Not published",536,
+"Tas","Heavy transport driver, passenger or unknown position",2013,,1,"Partly published",570,
+"Tas","Heavy transport driver, passenger or unknown position",2014,,2,"Not published",646,
+"Tas","Heavy transport driver, passenger or unknown position",2015,8,1,"Partly published",677,1.1816838995568686
+"Tas","Heavy transport driver, passenger or unknown position",2016,8,1,"Partly published",657,1.21765601217656
+"Tas","Heavy transport driver, passenger or unknown position",2017,5,1,"Partly published",659,0.7587253414264037
+"Tas","Heavy transport driver, passenger or unknown position",2018,8,1,"Partly published",781,1.0243277848911652
+"Tas","Heavy transport driver, passenger or unknown position",2019,9,1,"Partly published",708,1.2711864406779663
+"Tas","Heavy transport driver, passenger or unknown position",2020,,2,"Not published",778,
+"Tas","Heavy transport driver, passenger or unknown position",2021,,2,"Not published",805,
+"Tas","Motorcyclist",2011,129,0,"Published",493,26.16632860040568
+"Tas","Motorcyclist",2012,124,0,"Published",536,23.134328358208954
+"Tas","Motorcyclist",2013,149,0,"Published",570,26.14035087719298
+"Tas","Motorcyclist",2014,204,0,"Published",646,31.57894736842105
+"Tas","Motorcyclist",2015,197,0,"Published",677,29.098966026587885
+"Tas","Motorcyclist",2016,171,0,"Published",657,26.027397260273972
+"Tas","Motorcyclist",2017,169,0,"Published",659,25.644916540212442
+"Tas","Motorcyclist",2018,171,0,"Published",781,21.895006402048654
+"Tas","Motorcyclist",2019,148,0,"Published",708,20.903954802259886
+"Tas","Motorcyclist",2020,192,0,"Published",778,24.67866323907455
+"Tas","Motorcyclist",2021,198,0,"Published",805,24.596273291925467
+"Tas","Other or unknown",2011,,2,"Not published",493,
+"Tas","Other or unknown",2012,7,1,"Partly published",536,1.3059701492537312
+"Tas","Other or unknown",2013,9,1,"Partly published",570,1.5789473684210527
+"Tas","Other or unknown",2014,9,1,"Partly published",646,1.393188854489164
+"Tas","Other or unknown",2015,9,1,"Partly published",677,1.329394387001477
+"Tas","Other or unknown",2016,15,0,"Published",657,2.28310502283105
+"Tas","Other or unknown",2017,8,1,"Partly published",659,1.2139605462822458
+"Tas","Other or unknown",2018,15,0,"Published",781,1.9206145966709345
+"Tas","Other or unknown",2019,11,1,"Partly published",708,1.5536723163841808
+"Tas","Other or unknown",2020,12,0,"Published",778,1.5424164524421593
+"Tas","Other or unknown",2021,8,1,"Partly published",805,0.9937888198757764
+"Tas","Pedal cyclist",2011,73,0,"Published",493,14.807302231237324
+"Tas","Pedal cyclist",2012,91,0,"Published",536,16.977611940298505
+"Tas","Pedal cyclist",2013,94,0,"Published",570,16.49122807017544
+"Tas","Pedal cyclist",2014,111,0,"Published",646,17.18266253869969
+"Tas","Pedal cyclist",2015,93,0,"Published",677,13.737075332348597
+"Tas","Pedal cyclist",2016,96,0,"Published",657,14.61187214611872
+"Tas","Pedal cyclist",2017,107,0,"Published",659,16.236722306525035
+"Tas","Pedal cyclist",2018,109,0,"Published",781,13.956466069142126
+"Tas","Pedal cyclist",2019,121,0,"Published",708,17.09039548022599
+"Tas","Pedal cyclist",2020,133,0,"Published",778,17.09511568123393
+"Tas","Pedal cyclist",2021,118,0,"Published",805,14.658385093167702
+"Tas","Pedestrian",2011,45,0,"Published",493,9.127789046653144
+"Tas","Pedestrian",2012,51,0,"Published",536,9.514925373134329
+"Tas","Pedestrian",2013,43,0,"Published",570,7.5438596491228065
+"Tas","Pedestrian",2014,45,0,"Published",646,6.96594427244582
+"Tas","Pedestrian",2015,35,0,"Published",677,5.1698670605613
+"Tas","Pedestrian",2016,41,0,"Published",657,6.2404870624048705
+"Tas","Pedestrian",2017,34,0,"Published",659,5.159332321699544
+"Tas","Pedestrian",2018,59,0,"Published",781,7.554417413572343
+"Tas","Pedestrian",2019,53,0,"Published",708,7.4858757062146895
+"Tas","Pedestrian",2020,36,0,"Published",778,4.627249357326478
+"Tas","Pedestrian",2021,46,0,"Published",805,5.714285714285714
+"Tas","Pick-up truck or van occupant",2011,,1,"Partly published",493,
+"Tas","Pick-up truck or van occupant",2012,,1,"Partly published",536,
+"Tas","Pick-up truck or van occupant",2013,,2,"Not published",570,
+"Tas","Pick-up truck or van occupant",2014,,2,"Not published",646,
+"Tas","Pick-up truck or van occupant",2015,,1,"Partly published",677,
+"Tas","Pick-up truck or van occupant",2016,5,1,"Partly published",657,0.76103500761035
+"Tas","Pick-up truck or van occupant",2017,,2,"Not published",659,
+"Tas","Pick-up truck or van occupant",2018,5,1,"Partly published",781,0.6402048655569782
+"Tas","Pick-up truck or van occupant",2019,,2,"Not published",708,
+"Tas","Pick-up truck or van occupant",2020,7,1,"Partly published",778,0.8997429305912596
+"Tas","Pick-up truck or van occupant",2021,13,1,"Partly published",805,1.6149068322981366
+"Vic","Bus occupant",2011,39,0,"Published",9326,0.4181857173493459
+"Vic","Bus occupant",2012,33,0,"Published",8098,0.4075080266732527
+"Vic","Bus occupant",2013,45,0,"Published",7784,0.5781089414182939
+"Vic","Bus occupant",2014,57,0,"Published",8523,0.6687785990848293
+"Vic","Bus occupant",2015,60,0,"Published",9198,0.6523157208088715
+"Vic","Bus occupant",2016,63,0,"Published",10360,0.6081081081081081
+"Vic","Bus occupant",2017,73,0,"Published",10794,0.676301649064295
+"Vic","Bus occupant",2018,73,0,"Published",11453,0.6373875840391164
+"Vic","Bus occupant",2019,67,0,"Published",11392,0.5881320224719101
+"Vic","Bus occupant",2020,34,0,"Published",9884,0.3439902873330636
+"Vic","Bus occupant",2021,37,0,"Published",11130,0.33243486073674755
+"Vic","Car driver, passenger or unknown position",2011,4861,0,"Published",9326,52.123096718850526
+"Vic","Car driver, passenger or unknown position",2012,4062,0,"Published",8098,50.160533465053106
+"Vic","Car driver, passenger or unknown position",2013,3689,0,"Published",7784,47.39208633093525
+"Vic","Car driver, passenger or unknown position",2014,4070,0,"Published",8523,47.75313856623254
+"Vic","Car driver, passenger or unknown position",2015,4558,0,"Published",9198,49.55425092411394
+"Vic","Car driver, passenger or unknown position",2016,5324,0,"Published",10360,51.38996138996139
+"Vic","Car driver, passenger or unknown position",2017,5528,0,"Published",10794,51.2136372058551
+"Vic","Car driver, passenger or unknown position",2018,6099,0,"Published",11453,53.25242294595303
+"Vic","Car driver, passenger or unknown position",2019,5996,0,"Published",11392,52.63342696629213
+"Vic","Car driver, passenger or unknown position",2020,4661,0,"Published",9884,47.157021448806155
+"Vic","Car driver, passenger or unknown position",2021,5402,0,"Published",11130,48.53548966756514
+"Vic","Heavy transport driver, passenger or unknown position",2011,156,0,"Published",9326,1.6727428693973836
+"Vic","Heavy transport driver, passenger or unknown position",2012,116,0,"Published",8098,1.4324524573968882
+"Vic","Heavy transport driver, passenger or unknown position",2013,103,0,"Published",7784,1.3232271325796507
+"Vic","Heavy transport driver, passenger or unknown position",2014,107,0,"Published",8523,1.25542649301889
+"Vic","Heavy transport driver, passenger or unknown position",2015,107,0,"Published",9198,1.1632963687758209
+"Vic","Heavy transport driver, passenger or unknown position",2016,110,0,"Published",10360,1.0617760617760617
+"Vic","Heavy transport driver, passenger or unknown position",2017,126,0,"Published",10794,1.1673151750972763
+"Vic","Heavy transport driver, passenger or unknown position",2018,143,0,"Published",11453,1.2485811577752552
+"Vic","Heavy transport driver, passenger or unknown position",2019,122,0,"Published",11392,1.0709269662921348
+"Vic","Heavy transport driver, passenger or unknown position",2020,103,0,"Published",9884,1.0420882233913396
+"Vic","Heavy transport driver, passenger or unknown position",2021,136,0,"Published",11130,1.2219227313566936
+"Vic","Motorcyclist",2011,1622,0,"Published",9326,17.392236757452284
+"Vic","Motorcyclist",2012,1505,0,"Published",8098,18.584835761916523
+"Vic","Motorcyclist",2013,1521,0,"Published",7784,19.540082219938334
+"Vic","Motorcyclist",2014,1654,0,"Published",8523,19.40631233133873
+"Vic","Motorcyclist",2015,1694,0,"Published",9198,18.41704718417047
+"Vic","Motorcyclist",2016,1806,0,"Published",10360,17.43243243243243
+"Vic","Motorcyclist",2017,1979,0,"Published",10794,18.33425977394849
+"Vic","Motorcyclist",2018,1944,0,"Published",11453,16.973718676329348
+"Vic","Motorcyclist",2019,1939,0,"Published",11392,17.020716292134832
+"Vic","Motorcyclist",2020,1682,0,"Published",9884,17.017401861594497
+"Vic","Motorcyclist",2021,1967,0,"Published",11130,17.672955974842765
+"Vic","Other or unknown",2011,151,0,"Published",9326,1.6191293158910571
+"Vic","Other or unknown",2012,103,0,"Published",8098,1.2719189923437886
+"Vic","Other or unknown",2013,118,0,"Published",7784,1.5159301130524152
+"Vic","Other or unknown",2014,115,0,"Published",8523,1.3492901560483397
+"Vic","Other or unknown",2015,122,0,"Published",9198,1.3263752989780386
+"Vic","Other or unknown",2016,173,0,"Published",10360,1.66988416988417
+"Vic","Other or unknown",2017,146,0,"Published",10794,1.35260329812859
+"Vic","Other or unknown",2018,150,0,"Published",11453,1.3097005151488694
+"Vic","Other or unknown",2019,169,0,"Published",11392,1.483497191011236
+"Vic","Other or unknown",2020,144,0,"Published",9884,1.4569000404694454
+"Vic","Other or unknown",2021,135,0,"Published",11130,1.2129380053908356
+"Vic","Pedal cyclist",2011,1687,0,"Published",9326,18.08921295303453
+"Vic","Pedal cyclist",2012,1530,0,"Published",8098,18.893553963941713
+"Vic","Pedal cyclist",2013,1583,0,"Published",7784,20.336587872559093
+"Vic","Pedal cyclist",2014,1819,0,"Published",8523,21.342250381321133
+"Vic","Pedal cyclist",2015,1894,0,"Published",9198,20.59143292020004
+"Vic","Pedal cyclist",2016,2008,0,"Published",10360,19.382239382239383
+"Vic","Pedal cyclist",2017,2089,0,"Published",10794,19.353344450620718
+"Vic","Pedal cyclist",2018,2144,0,"Published",11453,18.71998602986117
+"Vic","Pedal cyclist",2019,2215,0,"Published",11392,19.443469101123593
+"Vic","Pedal cyclist",2020,2645,0,"Published",9884,26.760420882233916
+"Vic","Pedal cyclist",2021,2695,0,"Published",11130,24.21383647798742
+"Vic","Pedestrian",2011,739,0,"Published",9326,7.924083208235041
+"Vic","Pedestrian",2012,675,0,"Published",8098,8.335391454680167
+"Vic","Pedestrian",2013,673,0,"Published",7784,8.645940390544707
+"Vic","Pedestrian",2014,643,0,"Published",8523,7.544291915992021
+"Vic","Pedestrian",2015,700,0,"Published",9198,7.610350076103501
+"Vic","Pedestrian",2016,800,0,"Published",10360,7.722007722007722
+"Vic","Pedestrian",2017,786,0,"Published",10794,7.281823235130629
+"Vic","Pedestrian",2018,830,0,"Published",11453,7.2470095171570765
+"Vic","Pedestrian",2019,815,0,"Published",11392,7.154143258426966
+"Vic","Pedestrian",2020,558,0,"Published",9884,5.6454876568191015
+"Vic","Pedestrian",2021,682,0,"Published",11130,6.127583108715184
+"Vic","Pick-up truck or van occupant",2011,71,0,"Published",9326,0.7613124597898349
+"Vic","Pick-up truck or van occupant",2012,74,0,"Published",8098,0.9138058779945666
+"Vic","Pick-up truck or van occupant",2013,52,0,"Published",7784,0.6680369989722508
+"Vic","Pick-up truck or van occupant",2014,58,0,"Published",8523,0.6805115569635105
+"Vic","Pick-up truck or van occupant",2015,63,0,"Published",9198,0.684931506849315
+"Vic","Pick-up truck or van occupant",2016,76,0,"Published",10360,0.7335907335907336
+"Vic","Pick-up truck or van occupant",2017,67,0,"Published",10794,0.6207152121549009
+"Vic","Pick-up truck or van occupant",2018,70,0,"Published",11453,0.611193573736139
+"Vic","Pick-up truck or van occupant",2019,69,0,"Published",11392,0.605688202247191
+"Vic","Pick-up truck or van occupant",2020,57,0,"Published",9884,0.5766895993524889
+"Vic","Pick-up truck or van occupant",2021,76,0,"Published",11130,0.6828391734052112
+"WA","Bus occupant",2011,26,0,"Published",3442,0.7553747821034282
+"WA","Bus occupant",2012,24,0,"Published",3493,0.6870884626395649
+"WA","Bus occupant",2013,30,0,"Published",3475,0.8633093525179856
+"WA","Bus occupant",2014,29,0,"Published",3154,0.9194673430564362
+"WA","Bus occupant",2015,13,1,"Partly published",3183,0.4084197298146403
+"WA","Bus occupant",2016,21,0,"Published",3031,0.6928406466512702
+"WA","Bus occupant",2017,15,0,"Published",3195,0.4694835680751174
+"WA","Bus occupant",2018,12,0,"Published",3274,0.3665241295051924
+"WA","Bus occupant",2019,16,0,"Published",3534,0.4527447651386531
+"WA","Bus occupant",2020,20,0,"Published",3636,0.5500550055005501
+"WA","Bus occupant",2021,22,0,"Published",3568,0.6165919282511211
+"WA","Car driver, passenger or unknown position",2011,1616,0,"Published",3442,46.94944799535154
+"WA","Car driver, passenger or unknown position",2012,1568,0,"Published",3493,44.88977955911824
+"WA","Car driver, passenger or unknown position",2013,1452,0,"Published",3475,41.78417266187051
+"WA","Car driver, passenger or unknown position",2014,1282,0,"Published",3154,40.646797717184526
+"WA","Car driver, passenger or unknown position",2015,1372,0,"Published",3183,43.10398994659126
+"WA","Car driver, passenger or unknown position",2016,1252,0,"Published",3031,41.30649950511383
+"WA","Car driver, passenger or unknown position",2017,1277,0,"Published",3195,39.968701095461654
+"WA","Car driver, passenger or unknown position",2018,1485,0,"Published",3274,45.35736102626756
+"WA","Car driver, passenger or unknown position",2019,1540,0,"Published",3534,43.57668364459536
+"WA","Car driver, passenger or unknown position",2020,1498,0,"Published",3636,41.1991199119912
+"WA","Car driver, passenger or unknown position",2021,1579,0,"Published",3568,44.25448430493273
+"WA","Heavy transport driver, passenger or unknown position",2011,45,0,"Published",3442,1.3073794305636257
+"WA","Heavy transport driver, passenger or unknown position",2012,50,0,"Published",3493,1.43143429716576
+"WA","Heavy transport driver, passenger or unknown position",2013,40,0,"Published",3475,1.1510791366906474
+"WA","Heavy transport driver, passenger or unknown position",2014,35,0,"Published",3154,1.109701965757768
+"WA","Heavy transport driver, passenger or unknown position",2015,33,0,"Published",3183,1.0367577756833177
+"WA","Heavy transport driver, passenger or unknown position",2016,34,0,"Published",3031,1.1217419993401518
+"WA","Heavy transport driver, passenger or unknown position",2017,29,0,"Published",3195,0.9076682316118936
+"WA","Heavy transport driver, passenger or unknown position",2018,46,0,"Published",3274,1.4050091631032375
+"WA","Heavy transport driver, passenger or unknown position",2019,40,0,"Published",3534,1.1318619128466327
+"WA","Heavy transport driver, passenger or unknown position",2020,44,0,"Published",3636,1.21012101210121
+"WA","Heavy transport driver, passenger or unknown position",2021,47,0,"Published",3568,1.3172645739910314
+"WA","Motorcyclist",2011,867,0,"Published",3442,25.188843695525858
+"WA","Motorcyclist",2012,909,0,"Published",3493,26.023475522473515
+"WA","Motorcyclist",2013,958,0,"Published",3475,27.568345323741006
+"WA","Motorcyclist",2014,865,0,"Published",3154,27.42549143944198
+"WA","Motorcyclist",2015,842,0,"Published",3183,26.453031731071313
+"WA","Motorcyclist",2016,802,0,"Published",3031,26.459914219729463
+"WA","Motorcyclist",2017,931,0,"Published",3195,29.139280125195615
+"WA","Motorcyclist",2018,788,0,"Published",3274,24.068417837507635
+"WA","Motorcyclist",2019,886,0,"Published",3534,25.070741369552913
+"WA","Motorcyclist",2020,949,0,"Published",3636,26.1001100110011
+"WA","Motorcyclist",2021,882,0,"Published",3568,24.719730941704036
+"WA","Other or unknown",2011,70,0,"Published",3442,2.033701336432307
+"WA","Other or unknown",2012,88,0,"Published",3493,2.519324363011738
+"WA","Other or unknown",2013,56,0,"Published",3475,1.6115107913669064
+"WA","Other or unknown",2014,69,0,"Published",3154,2.187698161065314
+"WA","Other or unknown",2015,70,0,"Published",3183,2.1991831605403704
+"WA","Other or unknown",2016,68,0,"Published",3031,2.2434839986803037
+"WA","Other or unknown",2017,87,0,"Published",3195,2.7230046948356805
+"WA","Other or unknown",2018,60,0,"Published",3274,1.832620647525962
+"WA","Other or unknown",2019,62,0,"Published",3534,1.7543859649122806
+"WA","Other or unknown",2020,74,0,"Published",3636,2.035203520352035
+"WA","Other or unknown",2021,71,0,"Published",3568,1.9899103139013452
+"WA","Pedal cyclist",2011,530,0,"Published",3442,15.398024404416036
+"WA","Pedal cyclist",2012,587,0,"Published",3493,16.805038648726022
+"WA","Pedal cyclist",2013,675,0,"Published",3475,19.424460431654676
+"WA","Pedal cyclist",2014,657,0,"Published",3154,20.830691185795818
+"WA","Pedal cyclist",2015,621,0,"Published",3183,19.50989632422243
+"WA","Pedal cyclist",2016,652,0,"Published",3031,21.511052457934674
+"WA","Pedal cyclist",2017,637,0,"Published",3195,19.93740219092332
+"WA","Pedal cyclist",2018,665,0,"Published",3274,20.311545510079412
+"WA","Pedal cyclist",2019,735,0,"Published",3534,20.797962648556876
+"WA","Pedal cyclist",2020,834,0,"Published",3636,22.937293729372936
+"WA","Pedal cyclist",2021,704,0,"Published",3568,19.730941704035875
+"WA","Pedestrian",2011,261,0,"Published",3442,7.582800697269029
+"WA","Pedestrian",2012,242,0,"Published",3493,6.928141998282279
+"WA","Pedestrian",2013,245,0,"Published",3475,7.0503597122302155
+"WA","Pedestrian",2014,198,0,"Published",3154,6.2777425491439445
+"WA","Pedestrian",2015,204,0,"Published",3183,6.4090480678605095
+"WA","Pedestrian",2016,166,0,"Published",3031,5.476740349719565
+"WA","Pedestrian",2017,194,0,"Published",3195,6.071987480438184
+"WA","Pedestrian",2018,189,0,"Published",3274,5.77275503970678
+"WA","Pedestrian",2019,227,0,"Published",3534,6.423316355404641
+"WA","Pedestrian",2020,183,0,"Published",3636,5.033003300330033
+"WA","Pedestrian",2021,220,0,"Published",3568,6.165919282511211
+"WA","Pick-up truck or van occupant",2011,27,0,"Published",3442,0.7844276583381755
+"WA","Pick-up truck or van occupant",2012,25,0,"Published",3493,0.71571714858288
+"WA","Pick-up truck or van occupant",2013,19,0,"Published",3475,0.5467625899280576
+"WA","Pick-up truck or van occupant",2014,19,0,"Published",3154,0.6024096385542169
+"WA","Pick-up truck or van occupant",2015,8,1,"Partly published",3183,0.2513352183474709
+"WA","Pick-up truck or van occupant",2016,36,0,"Published",3031,1.187726822830749
+"WA","Pick-up truck or van occupant",2017,25,0,"Published",3195,0.7824726134585289
+"WA","Pick-up truck or van occupant",2018,29,0,"Published",3274,0.885766646304215
+"WA","Pick-up truck or van occupant",2019,28,0,"Published",3534,0.7923033389926429
+"WA","Pick-up truck or van occupant",2020,34,0,"Published",3636,0.935093509350935
+"WA","Pick-up truck or van occupant",2021,43,0,"Published",3568,1.2051569506726458
