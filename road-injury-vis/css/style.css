@@ -1259,3 +1259,33 @@ button:focus-visible {
 }
 .toggle button[aria-pressed="true"] { background: var(--asphalt-dark); color: #fff; font-weight: 600; }
 .toggle button:focus-visible { outline: 3px solid var(--line); outline-offset: 1px; }
+
+/* ---------- Q4 map ---------- */
+.sub-chart { margin-top: 2rem; font-size: clamp(1.2rem, 2.4vw, 1.5rem); }
+.map-state { stroke: #fff; stroke-width: 1.2; transition: opacity 0.2s ease; }
+.map-state:hover, .map-state:focus { opacity: 0.82; outline: none; }
+.map-state:focus-visible, .map-state.is-pinned { stroke: var(--ink); stroke-width: 2.5; }
+.chart.has-pin .map-state:not(.is-pinned) { opacity: 0.35; }
+.map-labels text { font-size: 12px; fill: var(--ink); pointer-events: none; }
+.map-labels text.on-dark { fill: #fff; }
+.map-labels .map-code { font-weight: 700; }
+.map-leader { stroke: var(--muted); stroke-width: 1; }
+.map-legend text { font-size: 12px; fill: var(--muted); }
+
+/* ---------- Small table under each chart ---------- */
+.mini-table-wrap { margin-top: 1.5rem; overflow-x: auto; }
+.mini-table-title { margin: 0 0 0.5rem; font-size: 1.15rem; text-transform: uppercase; }
+.mini-table { width: 100%; max-width: 760px; border-collapse: collapse; font-size: 0.92rem; }
+.mini-table caption { caption-side: top; text-align: left; color: var(--muted); padding-bottom: 0.4rem; }
+.mini-table th, .mini-table td { padding: 0.4rem 0.6rem; text-align: right; border-bottom: 1px solid var(--rule); }
+.mini-table th[scope="row"], .mini-table thead th:first-child { text-align: left; font-weight: 600; }
+.mini-table thead th { font-weight: 700; color: var(--ink); border-bottom: 2px solid var(--ink); }
+.mini-table tfoot th, .mini-table tfoot td { font-weight: 700; border-bottom: none; }
+.mini-table tbody tr:nth-child(odd) { background: var(--paper); }
+.mini-table.text-last td:last-child, .mini-table.text-last thead th:last-child { text-align: left; }
+
+/* Q4: bar chart on the left, map on the right (stacked on small screens) */
+.q4-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; align-items: start; }
+.q4-panel { min-width: 0; }
+.panel-title { margin: 0.5rem 0 0; font-size: 1.1rem; text-transform: uppercase; color: var(--muted); }
+@media (max-width: 860px) { .q4-pair { grid-template-columns: 1fr; } }

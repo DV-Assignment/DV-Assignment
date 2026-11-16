@@ -50,13 +50,26 @@
     <figure class="chart-card">
       <figcaption>
         <span class="chart-title" id="q4-title">Road crash injury rate per 100,000 people by state and territory</span>
-        <span class="chart-sub">Bars are sorted from highest to lowest. Darker bars are above the 8 states and territories combined (dashed line). Hover a bar for details, or click it to pin them. Click anywhere to close.</span>
+        <span class="chart-sub">Two views of the same numbers: the bar chart (left) and the map (right). On the map, darker colour means a higher value. Bars are sorted from highest to lowest. Darker bars are above the 8 states and territories combined (dashed line). Hover a bar for details, or click it to pin them. Click anywhere to close.</span>
       </figcaption>
       <div class="controls">
         <label>Show <select id="q4-measure"></select></label>
         <label>Year <select id="q4-year"></select></label>
       </div>
-      <div class="chart" id="chart-states" role="img" aria-label="Bar chart of road crash injury rates by state and territory. In 2021, the Northern Territory had the highest rate at 286 per 100,000 people and New South Wales the lowest at 111."><p>Loading chart…</p></div>
+      <div class="q4-pair">
+        <div class="q4-panel">
+          <h3 class="panel-title">Bar chart</h3>
+          <div class="chart" id="chart-states" role="img" aria-label="Bar chart of road crash injury rates by state and territory. In 2021, the Northern Territory had the highest rate at 286 per 100,000 people and New South Wales the lowest at 111."><p>Loading chart…</p></div>
+        </div>
+        <div class="q4-panel">
+          <h3 class="panel-title" id="q4-map-title">Map</h3>
+          <div class="chart" id="chart-states-map" role="img" aria-label="Map of Australia coloured by road crash injury rate. In 2021, the Northern Territory was darkest at 286 per 100,000 people and New South Wales lightest at 111."><p>Loading map…</p></div>
+        </div>
+      </div>
+      <div class="mini-table-wrap">
+        <h3 class="mini-table-title">The chart in a table</h3>
+        <table class="mini-table" id="q4-table"></table>
+      </div>
       <p class="source">Source: BITRE Hospitalised Injury, September 2023 release (cases by state of usual residence). Population: ABS National, state and territory population, Table 4, estimated resident population at June each year. Some small road user counts are not published (n.p.), so those bars are left out and the totals may be a little low.</p>
     </figure>
 
